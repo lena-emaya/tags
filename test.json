@@ -552,21 +552,12 @@
     },
     "zoomSlices": [
       {
-        "zooms": "11-12",
-        "stylers": {
-          "color": "#E4E0D2",
-          "outline-color": "#ddd9ca",
-          "line-width": 0.05,
-          "outline-width": 0.1
-        }
-      },
-      {
         "zooms": "12-13",
         "stylers": {
           "color": "#F7F5EB",
           "outline-color": "#ddd9ca",
           "line-width": 0.05,
-          "outline-width": 0.1
+          "outline-width": 0.06
         }
       },
       {
@@ -574,8 +565,8 @@
         "stylers": {
           "color": "#ffffff",
           "outline-color": "#ddd9ca",
-          "line-width": 0.3,
-          "outline-width": 0.9
+          "line-width": 0.1,
+          "outline-width": 0.2
         }
       },
       {
@@ -583,8 +574,8 @@
         "stylers": {
           "color": "#ffffff",
           "outline-color": "#D1CDBA",
-          "line-width": 1.1,
-          "outline-width": 1.6
+          "line-width": 0.9,
+          "outline-width": 1.3
         }
       },
       {
