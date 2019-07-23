@@ -914,5 +914,14 @@
 				}
 		}
 	]
+  },
+	{
+    "matchTags": {
+      "anyOf": ["road"]
+    },
+		"type": "point",
+    "stylers": {
+      "visibility": "off"
+    }
   }
 ]
