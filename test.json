@@ -915,12 +915,12 @@
 		}
 	]
   },
-		{
+	{
     "matchTags": {
-      "allOf": ["road"],
+      "allOf": ["road"]
+		},
 		"type": "point",
 		"stylers": {
 			"visibility": "off"
 		}
-  }
 ]
