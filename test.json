@@ -66,8 +66,8 @@
 					"opacity": 1,
 					"color": "#c6e7ca"
 			}
-			}
-		]
+	}
+  	]
   },
   {
     "matchTags": {
@@ -891,5 +891,28 @@
     "stylers": {
       "visibility": "off"
     }
+  },
+	{
+    "matchTags": {
+      "allOf": ["road"],
+			"noneOf": ["road_1","road_2","road_3","road_4","road_5","road_6","road_7", "road_limited","road_unclassified", "road_minor", "road_construction", "path","crosswalk"]
+    },
+    "zoomSlices": [
+		{
+			"zooms": "0-12",
+			"stylers": {
+				"lightness": 0.6,
+				"visibility": "on",
+				"opacity": 0
+				}
+		},
+		{
+			"zooms": "12-22",
+			"stylers": {
+				"lightness": 0.35,
+				"visibility": "on"
+				}
+		}
+	]
   }
 ]
