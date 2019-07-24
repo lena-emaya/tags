@@ -684,7 +684,8 @@
     "type": "polyline",
     "stylers": {
       "color": "#ddd9ca",
-      "outline-color": "rgba(0,0,0,0)"
+      "outline-color": "rgba(0,0,0,0)",
+			"scale": 0.8
     }
   },
   {
@@ -694,7 +695,8 @@
     "type": "polyline",
     "stylers": {
       "color": "#ddd9ca",
-      "outline-color": "rgba(0,0,0,0)"
+      "outline-color": "rgba(0,0,0,0)",
+			"scale": 0.8
     }
   },
   {
