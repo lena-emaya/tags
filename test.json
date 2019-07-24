@@ -685,7 +685,7 @@
     "stylers": {
       "color": "#ddd9ca",
       "outline-color": "rgba(0,0,0,0)",
-			"scale": 0.8
+			"scale": 0.5
     }
   },
   {
@@ -696,7 +696,7 @@
     "stylers": {
       "color": "#ddd9ca",
       "outline-color": "rgba(0,0,0,0)",
-			"scale": 0.8
+			"scale": 0.5
     }
   },
   {
