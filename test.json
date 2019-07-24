@@ -565,8 +565,8 @@
         "stylers": {
           "color": "#ffffff",
           "outline-color": "#ddd9ca",
-          "line-width": 0.1,
-          "outline-width": 0.2
+          "line-width": 0.3,
+          "outline-width": 0.6
         }
       },
       {
