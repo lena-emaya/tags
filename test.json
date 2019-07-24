@@ -556,14 +556,14 @@
         "stylers": {
           "color": "#F7F5EB",
           "outline-color": "#ddd9ca",
-          "line-width": 0.05,
-          "outline-width": 0.06
+          "line-width": 0.045,
+          "outline-width": 0.05
         }
       },
       {
         "zooms": "13-14",
         "stylers": {
-          "color": "#ffffff",
+          "color": "#F7F5EB",
           "outline-color": "#ddd9ca",
           "line-width": 0.1,
           "outline-width": 0.15
@@ -574,8 +574,8 @@
         "stylers": {
           "color": "#ffffff",
           "outline-color": "#D1CDBA",
-          "line-width": 1.2,
-          "outline-width": 1.7
+          "line-width": 1.4,
+          "outline-width": 1.9
         }
       },
       {
