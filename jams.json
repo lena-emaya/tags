@@ -37,7 +37,7 @@
           "color": "#3de155",
           "outline-color": "#fff",
           "image-url": "",
-          "scale": 0.4
+          "scale": 0.5
         }
 			},
 			{ 
@@ -46,7 +46,7 @@
           "color": "#3de155",
           "outline-color": "#fff",
           "image-url": "",
-          "scale": 0.35
+          "scale": 0.3
         }
 			},
 			{ 
@@ -98,7 +98,7 @@
           "color": "#fae436",
           "outline-color": "#fff",
           "image-url": "",
-          "scale": 0.4
+          "scale": 0.5
         }
 			},
 			{ 
@@ -107,7 +107,7 @@
           "color": "#fae436",
           "outline-color": "#fff",
           "image-url": "",
-          "scale": 0.35
+          "scale": 0.3
         }
 			},
 			{ 
@@ -159,7 +159,7 @@
           "color": "#fa6a3c",
           "outline-color": "#fff",
           "image-url": "",
-          "scale": 0.4
+          "scale": 0.5
         }
 			},
 			{ 
@@ -168,7 +168,7 @@
           "color": "#fa6a3c",
           "outline-color": "#fff",
           "image-url": "",
-          "scale": 0.35
+          "scale": 0.3
         }
 			},
 			{ 
@@ -220,7 +220,7 @@
           "color": "#c23827",
           "outline-color": "#fff",
           "image-url": "",
-          "scale": 0.4
+          "scale": 0.5
         }
 			},
 			{ 
@@ -229,7 +229,7 @@
           "color": "#c23827",
           "outline-color": "#fff",
           "image-url": "",
-          "scale": 0.35
+          "scale": 0.3
         }
 			},
 			{ 
@@ -281,7 +281,7 @@
           "color": "#fff",
           "outline-color": "#3b2d2b",
           "image-url": "",
-          "scale": 0.4
+          "scale": 0.5
         }
 			},
 			{ 
@@ -290,7 +290,7 @@
           "color": "#fff",
           "outline-color": "#3b2d2b",
           "image-url": "",
-          "scale": 0.35
+          "scale": 0.3
         }
 			},
 			{ 
