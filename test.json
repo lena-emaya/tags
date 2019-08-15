@@ -960,5 +960,15 @@
     "stylers": {
       "visibility": "off"
     }
+  },
+  {
+    "matchTags": {
+      "noneOf": ["country", "region", "locality", "district", "address"],
+      "anyOf": [ "admin"]
+    },
+    "type": "point",
+    "stylers": {
+      "visibility": "off"
+     }
   }
 ]
