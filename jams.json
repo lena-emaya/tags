@@ -23,7 +23,7 @@
         }
 			},
 			{ 
-      	"zooms": "9-11",
+      	"zooms": "9-12",
         "stylers": {
           "color": "#3de155",
           "outline-color": "#fff",
@@ -32,7 +32,7 @@
         }
 			},
 			{ 
-      	"zooms": "11-13",
+      	"zooms": "12-13",
         "stylers": {
           "color": "#3de155",
           "outline-color": "#fff",
@@ -84,7 +84,7 @@
         }
 			},
 			{ 
-      	"zooms": "9-11",
+      	"zooms": "9-12",
         "stylers": {
           "color": "#fae436",
           "outline-color": "#fff",
@@ -93,7 +93,7 @@
         }
 			},
 			{ 
-      	"zooms": "11-13",
+      	"zooms": "12-13",
         "stylers": {
           "color": "#fae436",
           "outline-color": "#fff",
@@ -145,7 +145,7 @@
         }
 			},
 			{ 
-      	"zooms": "9-11",
+      	"zooms": "9-12",
         "stylers": {
           "color": "#fa6a3c",
           "outline-color": "#fff",
@@ -154,7 +154,7 @@
         }
 			},
 			{ 
-      	"zooms": "11-13",
+      	"zooms": "12-13",
         "stylers": {
           "color": "#fa6a3c",
           "outline-color": "#fff",
@@ -206,7 +206,7 @@
         }
 			},
 			{ 
-      	"zooms": "9-11",
+      	"zooms": "9-12",
         "stylers": {
           "color": "#c23827",
           "outline-color": "#fff",
@@ -215,7 +215,7 @@
         }
 			},
 			{ 
-      	"zooms": "11-13",
+      	"zooms": "12-13",
         "stylers": {
           "color": "#c23827",
           "outline-color": "#fff",
@@ -267,7 +267,7 @@
         }
 			},
 			{ 
-      	"zooms": "9-11",
+      	"zooms": "9-12",
         "stylers": {
           "color": "#fff",
           "outline-color": "#3b2d2b",
@@ -276,7 +276,7 @@
         }
 			},
 			{ 
-      	"zooms": "11-13",
+      	"zooms": "12-13",
         "stylers": {
           "color": "#fff",
           "outline-color": "#3b2d2b",
