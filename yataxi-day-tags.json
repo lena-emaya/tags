@@ -2,19 +2,8 @@
 	{
 		"types": "polygon",
 		"elements": "geometry.fill",
-	  "tags": {
-	  	"none": [
-				"admin", 
-				"urban_area", 
-				"poi", 
-				"land", 
-				"residental",
-				"country", 
-				"region"
-			]
-	  },
 	  "stylers": {
-	  	"color": "#FFA46E"
+	  	"color": "#F9F7F2"
 	  }
 	},
 	{
@@ -32,7 +21,7 @@
 			]
 	  },
 	  "stylers": {
-	  	"color": "#FFA46E"
+	  	"color": "#F9F7F2"
 	  }
 	},
 	{
