@@ -163,7 +163,8 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#333"
+				"color": "#333",
+				"lightness": 0.4
 			},
 			{
         "zoom": [0, 17],
