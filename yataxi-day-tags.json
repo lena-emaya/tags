@@ -362,7 +362,7 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["country", "region","locality"]
+			"any":["country"]
 		},
 		"elements":"geometry.fill",
 		"stylers": 
@@ -374,7 +374,103 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["country", "region","locality"]
+			"any":["country"]
+		},
+		"elements":"geometry.outline",
+		"stylers": 
+			{
+				"color": "#99958800",
+				"scale": 0.7
+			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["country"]
+		},
+		"elements":"label.text.fill",
+		"stylers": 
+			{
+				"color": "#a4a096",
+				"scale": 0.85
+			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["country"]
+		},
+		"elements":"label.text.outline",
+		"stylers": 
+			{
+				"color": "#a4a09600",
+				"scale": 0.85
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["region"]
+		},
+		"elements":"geometry.fill",
+		"stylers": 
+			{
+				"color": "#999588",
+				"scale": 0.7
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["region"]
+		},
+		"elements":"geometry.outline",
+		"stylers": 
+			{
+				"color": "#99958800",
+				"scale": 0.7
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["locality"]
+		},
+		"elements":"geometry.fill",
+		"stylers": 
+			{
+				"color": "#999588",
+				"scale": 0.7
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["locality"]
+		},
+		"elements":"geometry.outline",
+		"stylers": 
+			{
+				"color": "#99958800",
+				"scale": 0.7
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["district"]
+		},
+		"elements":"geometry.fill",
+		"stylers": 
+			{
+				"color": "#999588",
+				"scale": 0.7
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["district"]
 		},
 		"elements":"geometry.outline",
 		"stylers": 
