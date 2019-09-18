@@ -358,5 +358,29 @@
 			{
 				"visibility": "off"
 			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["country", "region","locality"]
+		},
+		"elements":"geometry.fill",
+		"stylers": 
+			{
+				"color": "#999588",
+				"scale": 0.7
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["country", "region","locality"]
+		},
+		"elements":"geometry.outline",
+		"stylers": 
+			{
+				"color": "#99958800",
+				"scale": 0.7
+			}
 	}
 ]
