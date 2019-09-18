@@ -526,6 +526,16 @@
 			}
 	},
 	{
+		"types": "polyline",
+		"tags":{
+			"any":["ferry"]
+		},
+		"stylers": 
+			{
+				"visibility": "off"
+			}
+	},
+	{
 		"types": "point",
 		"tags":{
 			"any":["district"]
