@@ -12,7 +12,7 @@
 	{
 		"types": "polygon",
     "tags": {
-      "anyOf": ["vegetation", "park"]
+      "any": ["vegetation", "park"]
     },
     "stylers": {
 			"color": "#c6e7ca",
@@ -68,6 +68,16 @@
         "scale": 0.7
       }
     ]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+      "all": ["is_tunnel"]
+    },
+    "stylers": {
+			"opacity": 0.5
+		}
   },
   {
     "types": "polyline",
@@ -78,7 +88,7 @@
     "stylers": [
       {
 				"color": "#ddd9ca",
-				"scale": 0.1
+				"scale": 0.5
       },
       {
         "zoom": [0, 9],
@@ -89,15 +99,5 @@
         "color": "#d1cdba"
       }
     ]
-  },
-  {
-      "types": "point",
-      "tags": {
-        "all": ["road"],
-        "none": ["traffic_light"]
-      },
-      "stylers": {
-        "visibility": "off"
-      }
-	}
+  }
 ]
