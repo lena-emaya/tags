@@ -14,10 +14,41 @@
     "tags": {
       "any": ["vegetation", "park"]
     },
-    "stylers": {
-			"color": "#E4F0E1",
-			"opacity": 1
-    }
+    "stylers": [
+			{
+				"color": "#E4F0E1",
+				"opacity": 1
+			},
+			{
+        "zoom": [3, 9],
+        "opacity": 0.35,
+        "color": "#c6e7ca"
+      },
+      {
+        "zoom": [9,10],
+        "opacity": 0.4,
+				"color": "#c6e7ca"
+      },
+      { 
+        "zoom": [10, 11],
+        "opacity": 0.5,
+				"color": "#D1EBD3"
+      },
+      { 
+        "zoom": [11,12],
+        "opacity": 0.4,
+				"color": "#D1EBD3"
+      },
+      { 
+        "zoom": [12, 13],
+        "opacity": 0.35,
+				"color": "#D1EBD3"
+      },
+      { 
+        "zoom": [13, 14],
+        "opacity": 0.9
+			}
+		]
   },
 	{
 		"types": ["polygon","polyline"],
