@@ -541,21 +541,5 @@
 				"visibility": "off"
 			}
 		]
-	},
-	{
-		"types": "polyline",
-		"tags":{
-			"any":["transport"]
-		},
-		"stylers": [
-			{
-				"lightness": 0.35,
-				"scale": 0.9
-			},
-			{
-				"zoom": [0,12],
-				"visibility": "off"
-			}
-		]
 	}
 ]
