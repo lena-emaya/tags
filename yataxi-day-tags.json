@@ -518,7 +518,7 @@
 	{
 		"types": "point",
 		"tags":{
-			"any":["admin"]
+			"any":["structure"]
 		},
 		"stylers": 
 			{
