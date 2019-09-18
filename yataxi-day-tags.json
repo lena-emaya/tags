@@ -118,14 +118,5 @@
 		"stylers": {
 			"saturation": -0.1
 		}
-	},
-	{
-		"types": "polyline",
-		"tags": {
-			"all": ["transport"]
-		},
-		"stylers": {
-			"visibility": "off"
-		}
 	}
 ]
