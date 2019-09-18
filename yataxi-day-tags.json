@@ -87,7 +87,8 @@
     },
     "stylers": [
       {
-      	"color": "#ddd9ca"
+				"color": "#ddd9ca",
+				"scale": 0.1
       },
       {
         "zoom": [0, 9],
