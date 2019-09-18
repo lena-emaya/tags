@@ -16,14 +16,13 @@
     },
     "stylers": {
 			"color": "#c6e7ca",
-			"opacity": 0.85,
-			"visibility": "on"
+			"opacity": 0.85
     }
   },
 	{
 		"types": ["polygon","polyline"],
 		"tags": {
-				"any": ["water"]
+			"any": ["water"]
 		},
 		"stylers": {
 			"color": "#dce9f5"
@@ -89,5 +88,24 @@
         "color": "#d1cdba"
       }
     ]
+	},
+	{
+		"types": "polygon",
+		"tags":{
+			"any":["building", "fence"]
+		},
+		"stylers": [
+			{
+				"color":"#F3F0E7"
+			},
+			{
+        "zoom": [16, 17],
+        "opacity": 0.8
+      },
+      {
+        "zoom": [17, 18],
+        "opacity": 0.9
+			}
+		]
 	}
 ]
