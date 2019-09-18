@@ -514,5 +514,15 @@
 				"color": "#99958800",
 				"scale": 0.2
 			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["admin"]
+		},
+		"stylers": 
+			{
+				"visibility": "off"
+			}
 	}
 ]
