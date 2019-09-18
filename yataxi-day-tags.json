@@ -469,6 +469,17 @@
 			}
 	},
 	{
+		"types": "point",
+		"tags":{
+			"any":["locality"]
+		},
+		"stylers": 
+			{
+				"color": "#5e5845",
+				"scale": 0.9
+			}
+	},
+	{
 		"types": "polyline",
 		"tags":{
 			"any":["district"]
