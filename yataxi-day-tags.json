@@ -86,32 +86,46 @@
       "any": ["road_1", "road_2", "road_3", "road_4"]
     },
     "stylers": [
-        {
-          "color": "#ddd9ca"
-        },
-        {
-          "zoom": [0, 9],
-          "color": "#c4bfa7"
-        },
-        {
-          "zoom": [11, 16],
-          "color": "#d1cdba",
-          "scale": 0.1
-        }
+      {
+      	"color": "#ddd9ca"
+      },
+      {
+        "zoom": [0, 9],
+        "color": "#c4bfa7"
+      },
+      {
+        "zoom": [11, 16],
+        "color": "#d1cdba",
+        "scale": 0.1
+      }
     ]
   },
   {
       "types": "point",
       "tags": {
-          "all": [
-              "road"
-          ],
-          "none": [
-              "traffic_light"
-          ]
+        "all": ["road"],
+        "none": ["traffic_light"]
       },
       "stylers": {
-          "visibility": "off"
+        "visibility": "off"
       }
-  }
+	},
+	{
+		"types": "point",
+		"tags": {
+			"all": ["transport"]
+		},
+		"stylers": {
+			"saturation": -0.1
+		}
+	},
+	{
+		"types": "polyline",
+		"tags": {
+			"all": ["transport"]
+		},
+		"stylers": {
+			"visibility": "off"
+		}
+	}
 ]
