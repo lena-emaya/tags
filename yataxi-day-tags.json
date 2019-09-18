@@ -116,7 +116,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#FF6ED5",
+				"color": "#BFBDB2",
 				"scale": 0.9
 			},
 			{
@@ -135,5 +135,40 @@
 			{
 				"color": "#00000000"
 			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["poi"],
+			"none": ["park"]
+		},
+		"elements": "label.icon",
+		"stylers": [
+			{
+				"lightness": 0.4,
+				"saturation": -1
+			},
+			{
+        "zoom": [0, 17],
+        "visibility": "off"
+      }
+		]
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["park"]
+		},
+		"elements": "label.icon",
+		"stylers": [
+			{
+				"lightness": 0.4,
+				"hue": 0.3
+			},
+			{
+        "zoom": [0, 17],
+        "visibility": "off"
+      }
+		]
 	}
 ]
