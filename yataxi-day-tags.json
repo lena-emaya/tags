@@ -60,6 +60,17 @@
 			"color": "#dce9f5"
 		}
 	},
+	{
+		"types": "polyline",
+		"tags": {
+			"any": ["path"]
+		},
+		"stylers": {
+			"color": "#ddd9ca",
+			"scale": 0.75
+		}
+
+	},
   {
     "types": "polyline",
     "elements": "geometry.fill",
