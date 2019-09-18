@@ -1,12 +1,13 @@
 [
 	{
-	  "types": "polygon",
+		"types": "polygon",
+		"elements": "geometry.fill",
 	  "tags": {
 	  	"any": ["admin", "urban_area", "poi", "land"],
 	  	"none": ["park"]
 	  },
 	  "stylers": {
-	  	"color": "#f9f7f2"
+	  	"color": "#FF6ED5"
 	  }
 	},
 	{
