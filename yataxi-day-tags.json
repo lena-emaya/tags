@@ -2,7 +2,7 @@
 	{
 	  "types": "polygon",
 	  "tags": {
-	  	"any": ["admin", "urban_area", "poi"],
+	  	"any": ["admin", "urban_area", "poi", "land"],
 	  	"none": ["park"]
 	  },
 	  "stylers": {
@@ -266,6 +266,22 @@
 			},
 			{
         "zoom": [0, 17],
+        "visibility": "off"
+      }
+		]
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any": ["road_1", "road_2", "road_3", "road_4"]
+		},
+		"elements": "label.text.outline",
+		"stylers": [
+			{
+				"color": "#E86480"
+			},
+			{
+        "zoom": [0, 10],
         "visibility": "off"
       }
 		]
