@@ -376,7 +376,7 @@
 	{
 		"types": "point",
 		"tags":{
-			"all":["traffic_light"]
+			"all":["road"]
 		},
 		"stylers": 
 			{
