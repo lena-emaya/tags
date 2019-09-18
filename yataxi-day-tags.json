@@ -3,8 +3,33 @@
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "tags": {
-	  	"any": ["admin", "urban_area", "poi", "land", "residental","country", "region"],
-	  	"none": ["park"]
+	  	"none": [
+				"admin", 
+				"urban_area", 
+				"poi", 
+				"land", 
+				"residental",
+				"country", 
+				"region"
+			]
+	  },
+	  "stylers": {
+	  	"color": "#FFA46E"
+	  }
+	},
+	{
+		"types": "polygon",
+		"elements": "geometry.fill",
+	  "tags": {
+	  	"any": [
+				"admin", 
+				"urban_area", 
+				"poi", 
+				"land", 
+				"residental",
+				"country", 
+				"region"
+			]
 	  },
 	  "stylers": {
 	  	"color": "#FFA46E"
