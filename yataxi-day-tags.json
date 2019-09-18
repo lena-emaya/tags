@@ -10,6 +10,27 @@
 		}
 	},
 	{
+		"types": "polygon",
+    "tags": {
+      "allOf": ["landcover"],
+      "noneOf": ["vegetation"]
+    },
+    "stylers": {
+      "visibility": "off"
+    }
+	},
+	{
+		"types": "polygon",
+    "tags": {
+      "anyOf": ["vegetation", "park"]
+    },
+    "stylers": {
+			"color": "#c6e7ca",
+			"opacity": 0.85,
+			"visibility": "on"
+    }
+  },
+	{
 		"types": ["polygon","polyline"],
 		"tags": {
 				"any": ["water"]
