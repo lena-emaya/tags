@@ -89,6 +89,18 @@
 	{
 		"types": "polyline",
 		"tags": {
+			"any": ["path"],
+			"none": ["structure"]
+		},
+		"elements": "geometry.outline",
+		"stylers": {
+			"color": "#FF6ED5",
+			"scale": 0.75
+		}
+	},
+	{
+		"types": "polyline",
+		"tags": {
 			"any": ["crosswalk"]
 		},
 		"elements": "geometry.fill",
