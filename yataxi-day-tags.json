@@ -35,7 +35,7 @@
 				"opacity": 1
 			},
 			{
-        "zoom": [3, 9],
+        "zoom": [0, 9],
         "opacity": 0.35,
         "color": "#c6e7ca"
       },
@@ -320,6 +320,19 @@
       }
 		]
 	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["entrance"]
+		},
+		"stylers": 
+			{
+				"scale": 0.85,
+				"lightness": 0.45,
+				"saturation": -1
+			}
+	},
+	
 	{
 		"types": "polyline",
 		"tags":{
