@@ -325,5 +325,15 @@
         "scale": 1.05
 			}
 		]
+	},
+	{
+		"types": "point",
+		"tags":{
+			"all":["traffic_light"]
+		},
+		"stylers": 
+			{
+				"visibility": "off"
+			}
 	}
 ]
