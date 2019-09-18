@@ -429,7 +429,7 @@
 		"stylers": 
 			{
 				"color": "#999588",
-				"scale": 0.1
+				"scale": 0.15
 			}
 	},
 	{
@@ -441,7 +441,7 @@
 		"stylers": 
 			{
 				"color": "#99958800",
-				"scale": 0.1
+				"scale": 0.15
 			}
 	},
 	{
@@ -473,6 +473,7 @@
 		"tags":{
 			"any":["locality"]
 		},
+		"elements":"label.text.fill",
 		"stylers": 
 			{
 				"color": "#5e5845",
