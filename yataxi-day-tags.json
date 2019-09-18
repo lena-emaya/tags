@@ -269,5 +269,15 @@
         "visibility": "off"
       }
 		]
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["transport_shema"]
+		},
+		"stylers": 
+			{
+				"visibility": "off"
+			}
 	}
 ]
