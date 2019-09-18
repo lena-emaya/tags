@@ -31,8 +31,7 @@
     },
     "stylers": [
 			{
-				"color": "#E4F0E1",
-				"opacity": 1
+				"color": "#E4F0E1"
 			},
 			{
         "zoom": [0, 9],
@@ -61,7 +60,8 @@
       },
       { 
         "zoom": [13, 14],
-        "opacity": 0.9
+				"opacity": 0.9,
+				"color": "#E4F0E1"
 			}
 		]
   },
