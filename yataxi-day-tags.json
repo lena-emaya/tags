@@ -8,6 +8,15 @@
 			"color": "#F9F7F2"
 		}
 	},
+	{
+		"types": ["polygon","polyline"],
+		"tags": {
+				"any": ["water"]
+		},
+		"stylers": {
+			"color": "#dce9f5"
+		}
+	},
   {
     "types": "polyline",
     "elements": "geometry.fill",
