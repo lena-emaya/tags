@@ -31,15 +31,15 @@
     },
     "stylers": [
 			{
-				"color": "#4876FF"
+				"color": "#E4F0E1"
 			},
 			{
         "zoom": [0, 9],
         "opacity": 0.35,
-        "color": "#c6e7ca"
+        "color": "#c6e7ca35"
       },
       {
-        "zoom": [9,10],
+        "zoom": [9, 10],
         "opacity": 0.4,
 				"color": "#c6e7ca"
       },
