@@ -12,16 +12,6 @@
 	{
 		"types": "polygon",
     "tags": {
-      "allOf": ["landcover"],
-      "noneOf": ["vegetation"]
-    },
-    "stylers": {
-      "visibility": "off"
-    }
-	},
-	{
-		"types": "polygon",
-    "tags": {
       "anyOf": ["vegetation", "park"]
     },
     "stylers": {
@@ -109,14 +99,5 @@
       "stylers": {
         "visibility": "off"
       }
-	},
-	{
-		"types": "point",
-		"tags": {
-			"all": ["transport"]
-		},
-		"stylers": {
-			"saturation": -0.1
-		}
 	}
 ]
