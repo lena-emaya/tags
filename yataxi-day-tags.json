@@ -3,7 +3,7 @@
 		"types": "polygon",
 		"tags": {
 				"any": ["admin", "country", "region", "locality", "urban_area", "residential","poi"],
-				"noneOf": ["park"]
+				"none": ["park"]
 		},
 		"stylers": {
 			"color": "#F9F7F2"
@@ -33,7 +33,8 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-      "any": ["road_1", "road_2", "road_3", "road_4"]
+			"any": ["road_1", "road_2", "road_3", "road_4"],
+			"none": ["is_tunnel"]
     },
     "stylers": [
       {
@@ -73,7 +74,7 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-      "all": ["is_tunnel"]
+      "any": ["is_tunnel"]
     },
     "stylers": {
 			"opacity": 0.5
