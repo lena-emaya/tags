@@ -255,7 +255,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#333",
+				"color": "#808080",
 				"lightness": 0.4
 			},
 			{
