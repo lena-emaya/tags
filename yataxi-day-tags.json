@@ -79,6 +79,7 @@
 		"tags": {
 			"any": ["path"]
 		},
+		"elements": "geometry.fill",
 		"stylers": {
 			"color": "#ddd9ca",
 			"scale": 0.75
