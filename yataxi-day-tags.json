@@ -157,13 +157,13 @@
       {
         "zoom": [0, 11],
 				"color": "#e4e0d2",
-				"scale": 1,
+				"scale": 0.6,
         "lightness": 0
       },
       {
         "zoom": 12,
 				"color": "#f7f5eb",
-				"scale": 1,
+				"scale": 0.8,
         "lightness": 0
       },
       { 
