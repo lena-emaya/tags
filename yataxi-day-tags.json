@@ -313,7 +313,7 @@
     "types": "polyline",
     "elements": "geometry",
     "tags": {
-      "any": ["road_5", "road_6", "road_7", "road_limited", "road_unclassified", "road_minor"]
+      "any": ["road_6", "road_7", "road_limited", "road_unclassified", "road_minor"]
     },
     "stylers": [
       {
