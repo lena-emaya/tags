@@ -627,7 +627,7 @@
 		"tags":{
 			"any":["district"]
 		},
-		"elements":"geometry.fill",
+		"elements": "label.text.fill",
 		"stylers": 
 			{
 				"color": "#999588",
@@ -639,7 +639,7 @@
 		"tags":{
 			"any":["district"]
 		},
-		"elements":"geometry.outline",
+		"elements": "label.text.outline",
 		"stylers": 
 			{
 				"color": "#99958800",
@@ -654,6 +654,18 @@
 		"stylers": 
 			{
 				"visibility": "off"
+			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["landscape"]
+		},
+		"elements": "label.text.fill",
+		"stylers": 
+			{
+				"scale": 0.7,
+				"color": "#999588"
 			}
 	},
 	{
