@@ -542,8 +542,7 @@
 		"elements":"geometry.outline",
 		"stylers": 
 			{
-				"color": "#99958800",
-				"scale": 0.15
+				"visibility": "off"
 			}
 	},
 	{
