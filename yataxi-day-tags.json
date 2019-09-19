@@ -524,22 +524,5 @@
 			{
 				"visibility": "off"
 			}
-	},
-	{
-		"types": "point",
-		"tags":{
-			"any":["district"]
-		},
-		"elements":"label.text.fill",
-		"stylers": [
-			{
-				"color": "#a6a0a0",
-				"scale": 0.9
-			},
-			{
-				"zoom": [14, 30],
-				"visibility": "off"
-			}
-		]
 	}
 ]
