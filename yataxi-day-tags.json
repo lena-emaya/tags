@@ -167,12 +167,14 @@
 			{
 				"zoom": [8, 9],
 				"color": "#C4BFA7",
-				"lightness": 0
+				"lightness": 0,
+				"scale": 0.35
 			},
 			{
 				"zoom": [9, 10],
 				"color": "#e4e0d2",
-				"lightness": 0
+				"lightness": 0,
+				"scale": 0.4
 			},
 			{
 				"zoom": [10, 11],
