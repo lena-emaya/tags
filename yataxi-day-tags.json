@@ -231,12 +231,12 @@
 			{
 				"zoom": [3, 7],
 				"color": "#C4BFA7",
-				"scale": 0.2
+				"scale": 0.01
 			},
 			{
 				"zoom": [7, 8],
 				"color": "#C4BFA7",
-				"scale": 0.2
+				"scale": 0.05
 			},
 			{
 				"zoom": [8, 9],
