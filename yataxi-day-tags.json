@@ -7,6 +7,16 @@
 	  }
 	},
 	{
+		"types": "polyline",
+		"elements": "label.text",
+		"tags":{
+			"any": ["road"]
+		},
+	  "stylers": {
+	  	"color": "#F9F7F200"
+	  }
+	},
+	{
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "tags": {
@@ -108,7 +118,7 @@
 		"stylers": {
 			"hue": 0.9,
 			"lightness": 0.2,
-			"scale": 0.5
+			"scale": 0.7
 		}
 	},
 	{
@@ -387,7 +397,7 @@
 			},
 			{
         "zoom": [18, 22],
-        "scale": 1.05
+        "scale": 1
 			}
 		]
 	},
