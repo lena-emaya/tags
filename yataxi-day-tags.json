@@ -347,12 +347,17 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["transport_shema"]
+			"any":["transport"]
 		},
-		"stylers": 
+		"stylers": [
 			{
+				"lightness": 0.35
+			},
+			{
+				"zoom": [0, 12],
 				"visibility": "off"
 			}
+		]
 	},
 	{
 		"types": "point",
