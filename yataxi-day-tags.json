@@ -41,27 +41,27 @@
       {
         "zoom": [9, 10],
         "opacity": 0.4,
-				"color": "#c6e7ca"
+				"color": "#c6e7ca40"
       },
       { 
         "zoom": [10, 11],
         "opacity": 0.5,
-				"color": "#D1EBD3"
+				"color": "#D1EBD350"
       },
       { 
         "zoom": [11,12],
         "opacity": 0.4,
-				"color": "#D1EBD3"
+				"color": "#D1EBD340"
       },
       { 
         "zoom": [12, 13],
         "opacity": 0.35,
-				"color": "#D1EBD3"
+				"color": "#D1EBD335"
       },
       { 
         "zoom": [13, 14],
 				"opacity": 0.9,
-				"color": "#E4F0E1"
+				"color": "#E4F0E190"
 			}
 		]
   },
