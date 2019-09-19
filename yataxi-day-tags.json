@@ -151,17 +151,19 @@
     "stylers": [
       {
         "color": "#ffffff",
-        "scale": 0.3,
+        "scale": 0.4,
         "lightness": 1
       },
       {
         "zoom": [0, 11],
-        "color": "#e4e0d2",
+				"color": "#e4e0d2",
+				"scale": 1,
         "lightness": 0
       },
       {
         "zoom": 12,
-        "color": "#f7f5eb",
+				"color": "#f7f5eb",
+				"scale": 1,
         "lightness": 0
       },
       { 
