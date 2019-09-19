@@ -230,19 +230,23 @@
 			},
 			{
 				"zoom": [3, 7],
-				"color": "#C4BFA7"
+				"color": "#C4BFA7",
+				"scale": 0.2
 			},
 			{
 				"zoom": [7, 8],
-				"color": "#ddd9ca"
+				"color": "#ddd9ca",
+				"scale": 0.2
 			},
 			{
 				"zoom": [8, 9],
-				"color": "#C4BFA7"
+				"color": "#C4BFA7",
+				"scale": 0.4
 			},
 			{
 				"zoom": [9, 10],
-				"color": "#e4e0d2"
+				"color": "#e4e0d2",
+				"scale": 0.5
 			},
 			{
 				"zoom": [10, 11],
