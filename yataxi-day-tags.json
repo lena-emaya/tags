@@ -655,5 +655,16 @@
 			{
 				"visibility": "off"
 			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["admin"],
+			"none": ["country", "region", "locality", "district", "address"]
+		},
+		"stylers": 
+			{
+				"visibility": "off"
+			}
 	}
 ]
