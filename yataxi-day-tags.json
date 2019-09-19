@@ -10,10 +10,22 @@
 		"types": "polyline",
 		"elements": "label.text",
 		"tags":{
-			"any": ["road"]
+			"any": ["road"],
+			"none": ["road_1","road_2", "road_3", "road_4"]
 		},
 	  "stylers": {
 	  	"color": "#F9F7F200"
+	  }
+	},
+	{
+		"types": "polyline",
+		"elements": "label.text.fill",
+		"tags":{
+			"any": ["road_1","road_2", "road_3", "road_4"]
+		},
+	  "stylers": {
+			"color": "#92918b",
+			"scale": 0.8
 	  }
 	},
 	{
