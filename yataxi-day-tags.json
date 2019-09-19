@@ -93,7 +93,7 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"hue": 0.6,
+			"hue": -0.6,
 			"scale": 0.65
 		}
 	},
