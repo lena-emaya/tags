@@ -162,7 +162,7 @@
 			},
 			{
 				"zoom": [7, 8],
-				"color": "#4876FF",
+				"color": "#C4BFA7",
 				"lightness": 0,
 				"scale": 0.2
 			},
@@ -170,7 +170,7 @@
 				"zoom": [8, 9],
 				"color": "#C4BFA7",
 				"lightness": 0,
-				"scale": 0.4
+				"scale": 0.25
 			},
 			{
 				"zoom": [9, 10],
