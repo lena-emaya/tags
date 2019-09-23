@@ -39,6 +39,17 @@
 		]
 	},
 	{
+		"types": "polyline",
+		"elements": "label.text.outline",
+		"tags":{
+			"any": ["road_1","road_2", "road_3", "road_4"]
+		},
+	  "stylers": 
+			{
+				"color": "#92918b00"
+			}
+	},
+	{
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "tags": {
