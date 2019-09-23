@@ -213,8 +213,13 @@
 				"color": "#F7F5EB",
 				"lightness": 0
 			},
+			{
+				"zoom": [13, 14],
+				"color": "#FCFCF7",
+				"lightness": 0
+			},
 			{ 
-				"zoom": [13, 21],
+				"zoom": [14, 21],
 				"scale": 0.65
 			}
 		]
