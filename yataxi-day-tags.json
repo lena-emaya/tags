@@ -778,11 +778,16 @@
 			"any":["district"]
 		},
 		"elements": "label.text.fill",
-		"stylers": 
+		"stylers": [
 			{
 				"color": "#999588",
 				"scale": 0.2
+			},
+			{
+				"zoom": [14, 22],
+				"visibility": "off"
 			}
+		]
 	},
 	{
 		"types": "polyline",
@@ -790,11 +795,16 @@
 			"any":["district"]
 		},
 		"elements": "label.text.outline",
-		"stylers": 
+		"stylers": [
 			{
 				"color": "#99958800",
 				"scale": 0.2
+			},
+			{
+				"zoom": [14, 22],
+				"visibility": "off"
 			}
+		]
 	},
 	{
 		"types": "point",
