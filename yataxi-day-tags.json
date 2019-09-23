@@ -125,7 +125,8 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"color": "#ddd9ca",
+			"hue": 0.9,
+			"lightness": 0.2,
 			"scale": 0.5
 		}
 	},
