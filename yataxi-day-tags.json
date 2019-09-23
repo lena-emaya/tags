@@ -781,7 +781,7 @@
 		"stylers": [
 			{
 				"color": "#a6a0a0",
-				"scale": 0.2
+				"scale": 0.9
 			},
 			{
 				"zoom": [14, 22],
@@ -795,16 +795,11 @@
 			"any":["district"]
 		},
 		"elements": "label.text.outline",
-		"stylers": [
+		"stylers": 
 			{
 				"color": "#99958800",
-				"scale": 0.2
-			},
-			{
-				"zoom": [14, 22],
-				"visibility": "off"
+				"scale": 0.9
 			}
-		]
 	},
 	{
 		"types": "point",
