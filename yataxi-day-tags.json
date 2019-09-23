@@ -178,21 +178,21 @@
 			},
 			{
 				"zoom": [3, 7],
-				"color": "#FFE8BF",
+				"color": "#DEDCC8",
 				"lightness": 0,
 				"scale": 0.5
 			},
 			{
 				"zoom": [7, 8],
-				"color": "#CFCCB4",
+				"color": "#DEDCC8",
 				"lightness": 0,
-				"scale": 0.3
+				"scale": 0.5
 			},
 			{
 				"zoom": [8, 9],
-				"color": "#C4BFA7",
+				"color": "#CFCCB4",
 				"lightness": 0,
-				"scale": 0.3
+				"scale": 0.4
 			},
 			{
 				"zoom": [9, 10],
@@ -632,7 +632,8 @@
 		},
 		"stylers": [
 			{
-				"lightness": 0.35
+				"lightness": 0.35,
+				"scale": 0.9
 			},
 			{
 				"zoom": [0, 12],
