@@ -198,7 +198,12 @@
 				"scale": 0.8
 			},
 			{
-				"zoom": [10, 12],
+				"zoom": [10, 11],
+				"color": "#B3B8FF",
+				"scale": 1
+			},
+			{
+				"zoom": [11, 12],
 				"color": "#EDEBDF",
 				"scale": 0.3
 			},
