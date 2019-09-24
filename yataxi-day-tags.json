@@ -443,7 +443,7 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-			"any": ["road_minor"]
+			"any": ["road_construction","road_minor"]
     },
     "stylers": [
 			{
@@ -457,29 +457,6 @@
 			},
 			{ 
 				"zoom": [16, 21],
-				"scale": 0.6,
-				"lightness": 1
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.fill",
-    "tags": {
-			"any": ["road_construction"]
-    },
-    "stylers": [
-			{
-				"color": "#871A9E",
-				"scale": 1,
-				"lightness": 0
-			},
-			{
-				"zoom": [11, 14],
-				"color": "#871A9E"
-			},
-			{ 
-				"zoom": [14, 21],
 				"scale": 0.6,
 				"lightness": 1
 			}
@@ -548,7 +525,7 @@
     "types": "polyline",
     "elements": "geometry.outline",
     "tags": {
-      "any": ["road_minor"]
+      "any": ["road_construction","road_minor"]
     },
     "stylers": [
       {
