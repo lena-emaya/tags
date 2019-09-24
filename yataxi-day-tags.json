@@ -205,16 +205,21 @@
 			},
 			{
 				"zoom": [12, 13],
-				"color": "#F7F5EB",
+				"color": "#F5F5E9",
 				"lightness": 0
 			},
 			{
 				"zoom": [13, 14],
+				"color": "#FAFAF0",
+				"lightness": 0
+			},
+			{
+				"zoom": [14, 15],
 				"color": "#FCFCF7",
 				"lightness": 0
 			},
 			{ 
-				"zoom": [14, 21],
+				"zoom": [15, 21],
 				"scale": 0.65
 			}
 		]
@@ -245,7 +250,7 @@
     "stylers": [
 			{
 				"lightness": 1,
-				"color": "#7679E8",
+				"color": "#8FFF97",
 				"scale": 0.3
 			},
 			{
