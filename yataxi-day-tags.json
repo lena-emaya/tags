@@ -40,6 +40,27 @@
 	},
 	{
 		"types": "polyline",
+		"elements": "label.text.fill",
+		"tags":{
+			"any": ["road_5","road_6"]
+		},
+	  "stylers": [
+			{
+				"color": "#92918b",
+				"scale": 0.8
+			},
+			{
+				"zoom": [16, 17],
+				"scale": 0.75
+			},
+			{
+				"zoom": [17, 21],
+				"scale": 0.7
+			}
+		]
+	},
+	{
+		"types": "polyline",
 		"elements": "label.text.outline",
 		"tags":{
 			"any": ["road_1","road_2", "road_3", "road_4"]
@@ -327,14 +348,8 @@
 				"lightness": 0
 			},
 			{
-				"zoom": [11, 12],
-				"color": "#D1CDBA",
-				"scale": 1
-			},
-			{
-				"zoom": [12, 14],
-				"color": "#D1CDBA",
-				"scale": 1
+				"zoom": [11, 14],
+				"color": "#E0DECC"
 			},
 			{ 
 				"zoom": [14, 21],
