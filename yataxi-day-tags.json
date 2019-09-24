@@ -447,16 +447,16 @@
     },
     "stylers": [
 			{
-				"color": "#8F271D",
+				"color": "#ffffff",
 				"scale": 1,
 				"lightness": 0
 			},
 			{
-				"zoom": [11, 14],
-				"color": "#8F271D"
+				"zoom": [15, 16],
+				"color": "#E0DECC"
 			},
 			{ 
-				"zoom": [14, 21],
+				"zoom": [16, 21],
 				"scale": 0.6,
 				"lightness": 1
 			}
@@ -540,6 +540,23 @@
 			},
 			{	
 				"zoom": [0, 14],
+				"scale": 0
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.outline",
+    "tags": {
+      "any": ["road_minor"]
+    },
+    "stylers": [
+      {
+				"color": "#D1CDBA",
+				"scale": 0.6
+			},
+			{	
+				"zoom": [0, 16],
 				"scale": 0
 			}
 		]
