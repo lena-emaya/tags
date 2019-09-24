@@ -14,11 +14,11 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.4,
+				"lightness": 0.5,
 				"hue": 0.3
 			},
 			{
-        "zoom": [0, 17],
+        "zoom": [0, 15],
         "visibility": "off"
       }
 		]
@@ -31,11 +31,12 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"lightness": 0.4,
-				"hue": 0.3
+				"lightness": 0.5,
+				"hue": 0.3,
+				"saturation": -0.4
 			},
 			{
-        "zoom": [0, 17],
+        "zoom": [0, 15],
         "visibility": "off"
       }
 		]
@@ -51,7 +52,7 @@
 				"color": "#ffffff40"
 			},
 			{
-        "zoom": [0, 17],
+        "zoom": [0, 15],
         "visibility": "off"
       }
 		]
