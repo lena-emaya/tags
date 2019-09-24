@@ -199,12 +199,12 @@
 			},
 			{
 				"zoom": [10, 11],
-				"color": "#F5F5E9",
+				"color": "#E6E3D5",
 				"scale": 0.8
 			},
 			{
 				"zoom": [11, 12],
-				"color": "#EDEBDF",
+				"color": "#F5F5E9",
 				"scale": 0.2
 			},
 			{
