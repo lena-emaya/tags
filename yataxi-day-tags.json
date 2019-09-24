@@ -393,6 +393,98 @@
 			}
 		]
 	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_limited"]
+    },
+    "stylers": [
+			{
+				"color": "#3084D1",
+				"scale": 1,
+				"lightness": 0
+			},
+			{
+				"zoom": [11, 14],
+				"color": "#3084D1"
+			},
+			{ 
+				"zoom": [14, 21],
+				"scale": 0.6,
+				"lightness": 1
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_unclassified"]
+    },
+    "stylers": [
+			{
+				"color": "#DB8B30",
+				"scale": 1,
+				"lightness": 0
+			},
+			{
+				"zoom": [11, 14],
+				"color": "#DB8B30"
+			},
+			{ 
+				"zoom": [14, 21],
+				"scale": 0.6,
+				"lightness": 1
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_minor"]
+    },
+    "stylers": [
+			{
+				"color": "#8F271D",
+				"scale": 1,
+				"lightness": 0
+			},
+			{
+				"zoom": [11, 14],
+				"color": "#8F271D"
+			},
+			{ 
+				"zoom": [14, 21],
+				"scale": 0.6,
+				"lightness": 1
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_construction"]
+    },
+    "stylers": [
+			{
+				"color": "#871A9E",
+				"scale": 1,
+				"lightness": 0
+			},
+			{
+				"zoom": [11, 14],
+				"color": "#871A9E"
+			},
+			{ 
+				"zoom": [14, 21],
+				"scale": 0.6,
+				"lightness": 1
+			}
+		]
+	},
   {
     "types": "polyline",
     "elements": "geometry.outline",
@@ -451,27 +543,6 @@
 				"scale": 0
 			}
 		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry",
-    "tags": {
-      "any": ["road_limited", "road_unclassified", "road_minor"]
-    },
-    "stylers": [
-      {
-				"color": "#ddd9ca00",
-				"scale": 0.4
-      },
-      {
-        "zoom": [0, 9],
-        "color": "#c4bfa700"
-      },
-      {
-        "zoom": [11, 16],
-        "color": "#d1cdba00"
-      }
-    ]
 	},
 	{
     "types": "polyline",
