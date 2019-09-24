@@ -193,11 +193,7 @@
 				"color": "#EBE8DA"
 			},
 			{
-				"zoom": [9, 11],
-				"color": "#EDEBDF"
-			},
-			{
-				"zoom": [11, 12],
+				"zoom": [9, 12],
 				"color": "#EDEBDF"
 			},
 			{
@@ -205,11 +201,7 @@
 				"color": "#F5F5E9"
 			},
 			{
-				"zoom": [13, 14],
-				"color": "#FCFCF7"
-			},
-			{
-				"zoom": [14, 15],
+				"zoom": [13, 15],
 				"color": "#FCFCF7"
 			},
 			{ 
@@ -236,7 +228,7 @@
 			},
 			{	
 				"zoom": [9, 11],
-				"scale": 0.5
+				"scale": 0.4
 			}
 		]
 	},
