@@ -243,16 +243,12 @@
 			{	
 				"zoom": [11, 12],
 				"scale": 0.2,
-				"color": "#D1CDBA"
+				"color": "#ddd9ca"
 			},
 			{	
 				"zoom": [12, 15],
 				"scale": 0.3,
-				"color": "#C7C1A5"
-			},
-			{	
-				"zoom": [15, 17],
-				"scale": 0.5
+				"color": "#ddd9ca"
 			}
 		]
 	},
