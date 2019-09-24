@@ -374,7 +374,7 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-			"any": ["road_7"]
+			"any": ["road_7", "road_limited"]
     },
     "stylers": [
 			{
@@ -385,29 +385,6 @@
 			{
 				"zoom": [11, 14],
 				"color": "#E0DECC"
-			},
-			{ 
-				"zoom": [14, 21],
-				"scale": 0.6,
-				"lightness": 1
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.fill",
-    "tags": {
-			"any": ["road_limited"]
-    },
-    "stylers": [
-			{
-				"color": "#3084D1",
-				"scale": 1,
-				"lightness": 0
-			},
-			{
-				"zoom": [11, 14],
-				"color": "#3084D1"
 			},
 			{ 
 				"zoom": [14, 21],
@@ -508,7 +485,7 @@
     "types": "polyline",
     "elements": "geometry.outline",
     "tags": {
-      "any": ["road_7"]
+      "any": ["road_7", "road_limited"]
     },
     "stylers": [
       {
