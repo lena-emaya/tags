@@ -199,7 +199,8 @@
 			},
 			{
 				"zoom": [10, 12],
-				"color": "#EDEBDF"
+				"color": "#EDEBDF",
+				"scale": 0.3
 			},
 			{
 				"zoom": [12, 13],
