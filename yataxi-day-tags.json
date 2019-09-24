@@ -289,27 +289,11 @@
 		},
 		"stylers": [
 			{
-				"color":"#F0EDE1"
+				"color":"#F3F0E7"
 			},
 			{
         "zoom": [13, 14],
         "opacity": 0
-			},
-			{
-        "zoom": [14, 15],
-        "opacity": 0.15
-			},
-			{
-        "zoom": [15, 16],
-        "opacity": 0.05
-      },
-			{
-        "zoom": [16, 17],
-        "opacity": 0.05
-      },
-      {
-        "zoom": [17, 18],
-        "opacity": 0.05
 			}
 		]
 	},
