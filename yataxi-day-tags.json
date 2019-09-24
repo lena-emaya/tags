@@ -15,7 +15,8 @@
 		"stylers": [
 			{
 				"lightness": 0.5,
-				"hue": 0.3
+				"hue": 0.3,
+				"saturation": -0.2				
 			},
 			{
         "zoom": [0, 15],
@@ -33,7 +34,7 @@
 			{
 				"lightness": 0.5,
 				"hue": 0.3,
-				"saturation": -0.4
+				"saturation": -0.2
 			},
 			{
         "zoom": [0, 15],
