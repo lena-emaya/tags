@@ -227,15 +227,15 @@
     },
     "stylers": [
       {
-				"color": "#FFA3EA",
+				"color": "#3FFF75",
 				"scale": 0.6
 			},
 			{	
-				"zoom": [0, 10],
+				"zoom": [0, 9],
 				"scale": 0.01
 			},
 			{	
-				"zoom": [10, 11],
+				"zoom": [9, 11],
 				"scale": 0.1
 			},
 			{	
