@@ -233,16 +233,20 @@
     },
     "stylers": [
       {
-				"color": "#ddd9ca",
+				"color": "#92918b",
 				"scale": 0.5
 			},
 			{	
-				"zoom": [0, 12],
+				"zoom": [0, 10],
 				"scale": 0.01
 			},
 			{	
-				"zoom": [12, 20],
-				"color": "#E4E0D2"
+				"zoom": [11, 12],
+				"scale": 0.2
+			},
+			{	
+				"zoom": [12, 15],
+				"scale": 0.3
 			}
 		]
 	},
