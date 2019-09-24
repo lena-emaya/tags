@@ -189,8 +189,12 @@
 				"lightness": 0
 			},
 			{
-				"zoom": [3, 10],
+				"zoom": [3, 9],
 				"color": "#EBE8DA"
+			},
+			{
+				"zoom": [9, 10],
+				"color": "#E6E3D5"
 			},
 			{
 				"zoom": [10, 12],
