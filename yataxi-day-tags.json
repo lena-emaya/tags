@@ -11,7 +11,7 @@
 		"elements": "label.text",
 		"tags":{
 			"any": ["road"],
-			"none": ["road_1","road_2", "road_3", "road_4"]
+			"none": ["road_1","road_2", "road_3", "road_4", "road_5","road_6","road_7"]
 		},
 	  "stylers": {
 	  	"color": "#F9F7F200"
@@ -42,7 +42,7 @@
 		"types": "polyline",
 		"elements": "label.text.fill",
 		"tags":{
-			"any": ["road_5","road_6"]
+			"any": ["road_5","road_6","road_7"]
 		},
 	  "stylers": [
 			{
@@ -59,7 +59,7 @@
 		"types": "polyline",
 		"elements": "label.text.outline",
 		"tags":{
-			"any": ["road_1","road_2", "road_3", "road_4"]
+			"any": ["road_1","road_2", "road_3", "road_4", "road_5", "road_6", "road_7"]
 		},
 	  "stylers": 
 			{
