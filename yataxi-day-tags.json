@@ -233,7 +233,7 @@
     "stylers": [
       {
 				"color": "#ddd9ca",
-				"scale": 0.6
+				"scale": 0.3
 			},
 			{	
 				"zoom": [0, 12],
@@ -241,123 +241,12 @@
 			}
 		]
 	},
-	{
-    "types": "polyline",
-    "elements": "geometry.fill",
-    "tags": {
-			"any": ["road_5"]
-    },
-    "stylers": [
-			{
-				"lightness": 1,
-				"color": "#8FFF97",
-				"scale": 0.3
-			},
-			{
-				"zoom": [9, 10],
-				"color": "#DEDCC8",
-				"lightness": 0,
-				"scale": 0.5
-			},
-			{
-				"zoom": [10, 11],
-				"color": "#DEDCC8",
-				"lightness": 0
-			},
-			{
-				"zoom": [11, 12],
-				"color": "#EDEBDF",
-				"lightness": 0,
-				"scale": 0.35
-			},
-			{
-				"zoom": [12, 13],
-				"color": "#F7F5EB",
-				"lightness": 0,
-				"scale": 0.4
-			},
-			{ 
-				"zoom": [13, 14],
-				"scale": 0.45
-			},
-			{ 
-				"zoom": [14, 15],
-				"scale": 0.5
-			},
-			{ 
-				"zoom": [15,16],
-				"scale": 0.55
-			},
-			{ 
-				"zoom": [16, 17],
-				"scale": 0.6
-			},
-			{ 
-				"zoom": [17, 21],
-				"scale": 0.65
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.outline",
-    "tags": {
-      "any": ["road_5"]
-    },
-    "stylers": [
-      {
-				"color": "#ddd9ca",
-				"scale": 0.3
-			},
-			{
-				"zoom": [9, 10],
-				"color": "#e4e0d2",
-				"scale": 0.5
-			},
-			{
-				"zoom": [10, 11],
-				"color": "#e4e0d2"
-			},
-			{
-				"zoom": [11, 12],
-				"color": "#D1CDBA",
-				"scale": 0.35
-			},
-			{
-				"zoom": [12, 13],
-				"color": "#D1CDBA",
-				"scale": 0.4
-			},
-			{ 
-				"zoom": [13, 14],
-				"color": "#C7C1A5",
-				"scale": 0.45
-			},
-			{ 
-				"zoom": [14, 15],
-				"color": "#C7C1A5",
-				"scale": 0.5
-			},
-			{ 
-				"zoom": [15,16],
-				"color": "#D1CDBA",
-				"scale": 0.55
-			},
-			{ 
-				"zoom": [16, 17],
-				"scale": 0.6
-			},
-			{ 
-				"zoom": [17, 21],
-				"scale": 0.65
-			}
-		]
-	},
+
 	{
     "types": "polyline",
     "elements": "geometry",
     "tags": {
-      "any": ["road_6", "road_7", "road_limited", "road_unclassified", "road_minor"]
+      "any": ["road_5","road_6", "road_7", "road_limited", "road_unclassified", "road_minor"]
     },
     "stylers": [
       {
