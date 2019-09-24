@@ -136,7 +136,8 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"hue": 0.9,
+			"hue": -0.75,
+			"saturation": 1,
 			"lightness": 0.2,
 			"scale": 0.5
 		}
@@ -189,7 +190,7 @@
 			},
 			{
 				"zoom": [3, 9],
-				"color": "#DEDCC8",
+				"color": "#EDEBDF",
 				"lightness": 0,
 				"scale": 0.5
 			},
