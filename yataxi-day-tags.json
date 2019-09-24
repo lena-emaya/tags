@@ -8,17 +8,6 @@
 	},
 	{
 		"types": "polyline",
-		"elements": "label.text",
-		"tags":{
-			"any": ["road"],
-			"none": ["road_1","road_2", "road_3", "road_4", "road_5","road_6","road_7"]
-		},
-	  "stylers": {
-	  	"color": "#F9F7F200"
-	  }
-	},
-	{
-		"types": "polyline",
 		"elements": "label.text.fill",
 		"tags":{
 			"any": ["road_1","road_2"]
@@ -45,7 +34,7 @@
 		"types": "polyline",
 		"elements": "label.text.fill",
 		"tags":{
-			"any": ["road_5", "road_6", "road_7"]
+			"any": ["road_5", "road_6", "road_7","road_limited", "road_unclassified", "road_minor", "path", "crosswalk", "road_construction"]
 		},
 	  "stylers":
 			{
@@ -57,7 +46,7 @@
 		"types": "polyline",
 		"elements": "label.text.outline",
 		"tags":{
-			"any": ["road_1","road_2", "road_3", "road_4", "road_5", "road_6", "road_7"]
+			"any": ["road_1","road_2", "road_3", "road_4", "road_5", "road_6", "road_7", "road_limited", "road_unclassified", "road_minor", "path", "crosswalk", "road_construction"]
 		},
 	  "stylers": 
 			{
