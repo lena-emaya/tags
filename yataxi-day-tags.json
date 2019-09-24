@@ -195,17 +195,17 @@
 			{
 				"zoom": [9, 10],
 				"color": "#E6E3D5",
-				"scale": 0.8
+				"scale": 0.6
 			},
 			{
 				"zoom": [10, 11],
 				"color": "#E6E3D5",
-				"scale": 1
+				"scale": 0.8
 			},
 			{
 				"zoom": [11, 12],
 				"color": "#EDEBDF",
-				"scale": 0.3
+				"scale": 0.2
 			},
 			{
 				"zoom": [12, 13],
