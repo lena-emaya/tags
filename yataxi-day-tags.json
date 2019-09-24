@@ -166,7 +166,7 @@
 		"elements": "geometry.outline",
 		"stylers": {
 			"color": "#ddd9ca",
-			"scale": 0.7
+			"scale": 0.5
 		}
 	},
 	{
@@ -356,28 +356,7 @@
     "types": "polyline",
     "elements": "geometry.outline",
     "tags": {
-      "any": ["road_1", "road_2", "road_3", "road_4"]
-    },
-    "stylers": [
-      {
-				"color": "#D1CDBA",
-				"scale": 0.6
-			},
-			{	
-				"zoom": [0, 11],
-				"scale": 0.1
-			},
-			{	
-				"zoom": [11, 12],
-				"scale": 0.2
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.outline",
-    "tags": {
-      "any": ["road_5"]
+      "any": ["road_1", "road_2", "road_3", "road_4", "road_5"]
     },
     "stylers": [
       {
