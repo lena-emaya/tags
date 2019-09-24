@@ -206,7 +206,7 @@
 			},
 			{
 				"zoom": [13, 14],
-				"color": "#FAFAF0"
+				"color": "#FCFCF7"
 			},
 			{
 				"zoom": [14, 15],
@@ -227,7 +227,7 @@
     },
     "stylers": [
       {
-				"color": "#C7C1A5",
+				"color": "#D1CDBA",
 				"scale": 0.6
 			},
 			{	
@@ -236,7 +236,7 @@
 			},
 			{	
 				"zoom": [9, 11],
-				"scale": 0.1
+				"scale": 0.3
 			},
 			{	
 				"zoom": [11, 12],
