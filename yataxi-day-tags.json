@@ -184,44 +184,38 @@
     },
     "stylers": [
 			{
-				"lightness": 1,
 				"color": "#ffffff",
-				"scale": 0.5
+				"scale": 0.5,
+				"lightness": 0
 			},
 			{
 				"zoom": [3, 9],
-				"color": "#EBE8DA",
-				"lightness": 0,
-				"scale": 0.5
+				"color": "#EBE8DA"
 			},
 			{
 				"zoom": [9, 11],
-				"color": "#e4e0d2",
-				"lightness": 0
+				"color": "#e4e0d2"
 			},
 			{
 				"zoom": [11, 12],
-				"color": "#EDEBDF",
-				"lightness": 0
+				"color": "#EDEBDF"
 			},
 			{
 				"zoom": [12, 13],
-				"color": "#F5F5E9",
-				"lightness": 0
+				"color": "#F5F5E9"
 			},
 			{
 				"zoom": [13, 14],
-				"color": "#FAFAF0",
-				"lightness": 0
+				"color": "#FAFAF0"
 			},
 			{
 				"zoom": [14, 15],
-				"color": "#FCFCF7",
-				"lightness": 0
+				"color": "#FCFCF7"
 			},
 			{ 
 				"zoom": [15, 21],
-				"scale": 0.65
+				"scale": 0.65,
+				"lightness": 1
 			}
 		]
 	},
@@ -237,12 +231,16 @@
 				"scale": 0.55
 			},
 			{	
-				"zoom": [0, 11],
+				"zoom": [0, 10],
 				"scale": 0.01
 			},
 			{	
-				"zoom": [11, 12],
+				"zoom": [10, 11],
 				"scale": 0.1
+			},
+			{	
+				"zoom": [11, 12],
+				"scale": 0.15
 			},
 			{	
 				"zoom": [12, 13],
