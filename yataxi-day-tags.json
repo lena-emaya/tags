@@ -301,15 +301,15 @@
 			},
 			{
         "zoom": [15, 16],
-        "opacity": 0.25
+        "opacity": 0.05
       },
 			{
         "zoom": [16, 17],
-        "opacity": 0.45
+        "opacity": 0.05
       },
       {
         "zoom": [17, 18],
-        "opacity": 0.9
+        "opacity": 0.05
 			}
 		]
 	},
