@@ -21,39 +21,37 @@
 		"types": "polyline",
 		"elements": "label.text.fill",
 		"tags":{
-			"any": ["road_1","road_2", "road_3", "road_4"]
+			"any": ["road_1","road_2"]
 		},
-	  "stylers": [
+	  "stylers": 
 			{
 				"color": "#92918b",
-				"scale": 0.8
-			},
-			{
-				"zoom": [16, 17],
-				"scale": 0.75
-			},
-			{
-				"zoom": [17, 21],
-				"scale": 0.75
+				"scale": 0.85
 			}
-		]
 	},
 	{
 		"types": "polyline",
 		"elements": "label.text.fill",
 		"tags":{
-			"any": ["road_5","road_6","road_7"]
+			"any": ["road_3", "road_4"]
 		},
-	  "stylers": [
+	  "stylers": 
 			{
 				"color": "#92918b",
-				"scale": 0.8
-			},
-			{
-				"zoom": [16, 17],
-				"scale": 0.8
+				"scale": 0.9
 			}
-		]
+	},
+	{
+		"types": "polyline",
+		"elements": "label.text.fill",
+		"tags":{
+			"any": ["road_5", "road_6", "road_7"]
+		},
+	  "stylers":
+			{
+				"color": "#92918b",
+				"scale": 0.95
+			}
 	},
 	{
 		"types": "polyline",
