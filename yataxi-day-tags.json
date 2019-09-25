@@ -605,6 +605,23 @@
 	{
 		"types": "point",
 		"tags":{
+			"all":["road"]
+		},
+		"elements": "label.icon",
+		"stylers": [
+			{
+				"lightness": 0.4,
+				"saturation": -1
+			},
+			{
+        "zoom": [0, 17],
+        "visibility": "off"
+      }
+		]
+	},
+	{
+		"types": "point",
+		"tags":{
 			"any":["entrance"]
 		},
 		"stylers": 
@@ -650,16 +667,7 @@
 			}
 		]
 	},
-	{
-		"types": "point",
-		"tags":{
-			"all":["road"]
-		},
-		"stylers": 
-			{
-				"visibility": "off"
-			}
-	},
+	
 	{
 		"types": "polyline",
 		"tags":{
