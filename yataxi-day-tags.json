@@ -379,17 +379,14 @@
     "stylers": [
 			{
 				"color": "#ffffff",
-				"scale": 1,
-				"lightness": 0
+				"scale": 0.6,
+				"lightness": 1
 			},
 			{
 				"zoom": [11, 14],
-				"color": "#E0DECC"
-			},
-			{ 
-				"zoom": [14, 21],
-				"scale": 0.6,
-				"lightness": 1
+				"color": "#E0DECC",
+				"scale": 1,
+				"lightness": 0
 			}
 		]
 	},
