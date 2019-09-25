@@ -590,17 +590,12 @@
 		"tags":{
 			"any":["structure"]
 		},
-		"elements": "label.icon",
-		"stylers": [
+		"elements": "label.text",
+		"stylers": 
 			{
-				"lightness": 0.4,
-				"saturation": -1
-			},
-			{
-        "zoom": [0, 17],
         "visibility": "off"
       }
-		]
+		
 	},
 	{
 		"types": "point",
