@@ -826,5 +826,15 @@
 			{
 				"visibility": "off"
 			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["traffic_light"]
+		},
+		"stylers": 
+			{
+				"visibility": "off"
+			}
 	}
 ]
