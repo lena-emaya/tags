@@ -588,46 +588,13 @@
 	{
 		"types": "point",
 		"tags":{
-			"any":["park"]
+			"any":["structure"]
 		},
 		"elements": "label.icon",
 		"stylers": [
 			{
 				"lightness": 0.4,
-				"hue": 0.3
-			},
-			{
-        "zoom": [0, 17],
-        "visibility": "off"
-      }
-		]
-	},
-	{
-		"types": "point",
-		"tags":{
-			"any":["park"]
-		},
-		"elements": "label.text.fill",
-		"stylers": [
-			{
-				"lightness": 0.4,
-				"hue": 0.3
-			},
-			{
-        "zoom": [0, 17],
-        "visibility": "off"
-      }
-		]
-	},
-	{
-		"types": "point",
-		"tags":{
-			"any":["park"]
-		},
-		"elements": "label.text.outline",
-		"stylers": [
-			{
-				"color": "#ffffff40"
+				"saturation": -1
 			},
 			{
         "zoom": [0, 17],
@@ -827,16 +794,6 @@
 			{
 				"color": "#99958800",
 				"scale": 0.9
-			}
-	},
-	{
-		"types": "point",
-		"tags":{
-			"any":["structure"]
-		},
-		"stylers": 
-			{
-				"visibility": "off"
 			}
 	},
 	{
