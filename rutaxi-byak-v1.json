@@ -1,0 +1,171 @@
+[
+  
+  {
+    "elements": "geometry",
+    "tags": "water",
+    "types": "polyline",
+    "stylers": {
+      "color": "9ED9FF"
+    }
+  },
+  {
+    "elements": "geometry",
+    "tags": "water",
+    "types": "polygon",
+    "stylers": {
+      "color": "9ED9FF"
+    }
+  },
+  {
+    "elements": "label",
+    "tags": "water",
+    "stylers": {
+      "color": "67AEE6",
+      "scale": 0.95
+    }
+  },
+  {
+	"types": "polygon",
+	"tags":"building",
+	"elements": "geometry",
+	"stylers": 
+		{
+			"color":"E6E3D8"
+		}
+		
+  },
+  {
+    "elements": "geometry.fill",
+    "tags": "poi",
+    "types": "polygon",
+    "stylers": {
+      "color": "F7F5E9"
+    }
+  },
+  {
+    "elements": "geometry",
+    "tags": "vegetation",
+    "stylers": {
+      "color": "c3E691"
+    }
+  },
+  {
+    "elements": "geometry",
+    "tags": "park",
+    "stylers": {
+      "color": "c3E691"
+    }
+  },
+  {
+    "elements": "geometry.fill",
+    "tags": "road",
+    "stylers": {
+      "color": "fff",
+      "scale":0.8
+    }
+  },
+  {
+    "elements": "geometry.outline",
+    "tags": "road",
+    "stylers": {
+      "color": "B3B3B3",
+      "scale": 0.8
+    }
+  },
+  {
+    "elements": "geometry.fill",
+    "tags": "road_1",
+    "stylers": {
+      "color": "FFBD4D",
+      "scale": 0.8
+    }
+  },
+  {
+    "elements": "geometry.outline",
+    "tags": "road_1",
+    "stylers": {
+      "color": "fff",
+      "scale": 1
+    }
+  },
+  {
+    "elements": "geometry.fill",
+    "tags": "road_2",
+    "stylers": {
+      "color": "FFBD4D",
+      "scale": 0.8
+    }
+  },
+  {
+    "elements": "geometry.outline",
+    "tags": "road_2",
+    "stylers": {
+      "color": "fff",
+      "scale": 1
+    }
+  },
+  {
+    "elements": "geometry.fill",
+    "tags": "road_3",
+    "stylers": {
+      "color": "FFBD4D",
+      "scale": 0.8
+    }
+  },
+  {
+    "elements": "geometry.outline",
+    "tags": "road_3",
+    "stylers": {
+      "color": "fff",
+      "scale": 1
+    }
+  },
+  {
+    "elements": "geometry.fill",
+    "tags": "road_4",
+    "stylers": {
+      "color": "FFBD4D",
+      "scale": 0.8
+    }
+  },
+  {
+    "elements": "geometry.outline",
+    "tags": "road_4",
+    "stylers": {
+      "color": "fff",
+      "scale": 1
+    }
+  },
+  {
+    "elements": "label.text.fill",
+    "tags": "road",
+    "stylers": {
+      "color": "333333",
+      "scale": 0.85
+    }
+  },
+  {
+    "elements": "geometry.fill",
+    "tags": "admin",
+    "types": "polygon",
+    "stylers": {
+      "color": "F7F5E9"
+    }
+  },
+  {
+    "elements": "geometry.fill",
+    "tags": "urban_area",
+    "types": "polygon",
+    "stylers": {
+      "color": "EAEAE4"
+    }
+  },
+  {
+    "elements": "geometry.fill",
+    "tags": "residential",
+    "types": "polygon",
+    "stylers": {
+      "color": "F7F5E9"
+    }
+  }
+]
