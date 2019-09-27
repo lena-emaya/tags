@@ -311,9 +311,9 @@
 				"lightness": 1
 			},
 			{
-				"zoom": [11, 14],
-				"color": "#E0DECC",
-				"scale": 1,
+				"zoom": [11, 16],
+				"color": "#000",
+				"scale": 2,
 				"lightness": 0
 			}
 		]
@@ -420,8 +420,8 @@
 				"scale": 0.6
 			},
 			{	
-				"zoom": [0, 18],
-				"scale": 1
+				"zoom": [0, 14],
+				"scale": 0
 			}
 		]
 	},
@@ -438,7 +438,7 @@
 			},
 			{	
 				"zoom": [0, 16],
-				"scale": 1
+				"visibility": "off"
 			}
 		]
 	},
