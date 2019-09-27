@@ -438,7 +438,7 @@
 			},
 			{	
 				"zoom": [0, 16],
-				"visibility": "off"
+				"scale": 1
 			}
 		]
 	},
