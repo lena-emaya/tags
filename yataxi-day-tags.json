@@ -311,8 +311,8 @@
 				"lightness": 1
 			},
 			{
-				"zoom": [11, 15],
-				"color": "#363E59",
+				"zoom": [11, 14],
+				"color": "#E0DECC",
 				"scale": 1,
 				"lightness": 0
 			}
@@ -331,8 +331,8 @@
 				"lightness": 0
 			},
 			{
-				"zoom": [14, 16],
-				"color": "#95A1C9"
+				"zoom": [15, 16],
+				"color": "#E0DECC"
 			},
 			{ 
 				"zoom": [16, 21],
@@ -420,7 +420,7 @@
 				"scale": 0.6
 			},
 			{	
-				"zoom": [0, 14],
+				"zoom": [0, 13],
 				"scale": 0
 			}
 		]
