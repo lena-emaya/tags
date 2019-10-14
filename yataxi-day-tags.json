@@ -114,14 +114,26 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["admin"],
-			"none": ["country"]
+			"any":["region"]
 		},
 		"elements":"geometry.fill",
 		"stylers": 
 			{
 				"color": "#999588",
-				"scale": 0.25
+				"scale": 0.15
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["admin"],
+			"none": ["country", "region"]
+		},
+		"elements":"geometry.fill",
+		"stylers": 
+			{
+				"color": "#999588",
+				"scale": 0.1
 			}
 	},
 	{
