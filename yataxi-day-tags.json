@@ -586,11 +586,7 @@
 			{
 				"lightness": 0.4,
 				"saturation": -1
-			},
-			{
-        "zoom": [0, 17],
-        "visibility": "off"
-      }
+			}
 		]
 	},
 	{
