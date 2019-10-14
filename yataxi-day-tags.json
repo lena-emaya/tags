@@ -123,18 +123,7 @@
 				"scale": 0.15
 			}
 	},
-	{
-		"types": "polyline",
-		"tags":{
-			"any":["is_tunnel"]
-		},
-		"elements":"geometry.fill",
-		"stylers": 
-			{
-				"color": "#FFE1E0",
-				"scale": 0.15
-			}
-	},
+	
 	{
 		"types": "polyline",
 		"tags":{
@@ -807,6 +796,17 @@
 		"stylers": 
 			{
 				"visibility": "off"
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["is_tunnel"]
+		},
+		"elements":"geometry",
+		"stylers": 
+			{
+				"color": "#247528"
 			}
 	}
 ]
