@@ -158,18 +158,7 @@
 				"visibility": "off"
 			}
 	},
-	{
-		"types": "polyline",
-		"tags":{
-			"any":["locality"]
-		},
-		"elements":"geometry.fill",
-		"stylers": 
-			{
-				"color": "#999588",
-				"scale": 0.2
-			}
-	},
+	
 	{
 		"types": "polyline",
 		"tags":{
