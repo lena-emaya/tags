@@ -462,7 +462,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#BFBDB2",
+				"color": "#CECABB",
 				"scale": 0.9
 			},
 			{
@@ -470,17 +470,6 @@
         "visibility": "off"
       }
 		]
-	},
-	{
-		"types": "point",
-		"tags":{
-			"any":["address"]
-		},
-		"elements": "label.text.outline",
-		"stylers": 
-			{
-				"color": "#00000000"
-			}
 	},
 	{
 		"types": "point",
