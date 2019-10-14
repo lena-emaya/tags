@@ -126,6 +126,18 @@
 	{
 		"types": "polyline",
 		"tags":{
+			"any":["is_tunnel"]
+		},
+		"elements":"geometry.fill",
+		"stylers": 
+			{
+				"color": "#FFE1E0",
+				"scale": 0.15
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
 			"any":["admin"],
 			"none": ["country", "region"]
 		},
