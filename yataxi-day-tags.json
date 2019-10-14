@@ -1,5 +1,5 @@
 [
-	{
+	{ "comment": "instead background",
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "stylers": {
