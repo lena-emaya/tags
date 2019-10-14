@@ -288,7 +288,8 @@
 			},
 			{
 				"zoom": [13, 15],
-				"color": "#FCFCFA"
+				"color": "#9252F5",
+				"scale": 2
 			},
 			{ 
 				"zoom": [15, 21],
@@ -311,7 +312,7 @@
 			},
 			{
 				"zoom": [11, 15],
-				"color": "#000",
+				"color": "#9252F5",
 				"scale": 2,
 				"lightness": 0
 			}
