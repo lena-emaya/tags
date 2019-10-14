@@ -814,10 +814,21 @@
 		"tags":{
 			"any":["is_tunnel"]
 		},
+		"elements":"geometry.fill",
+		"stylers": 
+			{
+				"color": "F9F7F2"
+			}
+	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["is_tunnel"]
+		},
 		"elements":"geometry.outline",
 		"stylers": 
 			{
-				"opacity": 0.8
+				"color": "#9252F5"
 			}
 	}
 ]
