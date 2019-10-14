@@ -138,7 +138,8 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["locality"]
+			"any":["admin"],
+			"none": ["country", "region"]
 		},
 		"elements":"geometry.fill",
 		"stylers": 
@@ -156,19 +157,6 @@
 		"stylers": 
 			{
 				"visibility": "off"
-			}
-	},
-	
-	{
-		"types": "polyline",
-		"tags":{
-			"any":["locality"]
-		},
-		"elements":"geometry.outline",
-		"stylers": 
-			{
-				"color": "#99958800",
-				"scale": 0.2
 			}
 	},
   {
