@@ -114,44 +114,20 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["country"]
-		},
-		"elements":"geometry.outline",
-		"stylers": 
-			{
-				"color": "#99958800",
-				"scale": 0.7
-			}
-	},
-	{
-		"types": "polyline",
-		"tags":{
-			"any":["region"]
+			"any":["admin"],
+			"none": ["country"]
 		},
 		"elements":"geometry.fill",
 		"stylers": 
 			{
 				"color": "#999588",
-				"scale": 0.15
+				"scale": 0.25
 			}
 	},
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["admin"],
-			"none": ["country", "region"]
-		},
-		"elements":"geometry.fill",
-		"stylers": 
-			{
-				"color": "#E846A5",
-				"scale": 1
-			}
-	},
-	{
-		"types": "polyline",
-		"tags":{
-			"any":["region"]
+			"any":["admin"]
 		},
 		"elements":"geometry.outline",
 		"stylers": 
