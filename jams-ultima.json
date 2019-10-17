@@ -7,7 +7,7 @@
         { 
             "zooms": "0-7",
           "stylers": {
-            "color": "#3DE19A",
+            "color": "#7ED076",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.7
@@ -16,7 +16,7 @@
               { 
             "zooms": "7-9",
           "stylers": {
-            "color": "#3DE19A",
+            "color": "#7ED076",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.7
@@ -25,7 +25,7 @@
               { 
             "zooms": "9-12",
           "stylers": {
-            "color": "#3DE19A",
+            "color": "#7ED076",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.55
@@ -34,7 +34,7 @@
               { 
             "zooms": "12-13",
           "stylers": {
-            "color": "#3DE19A",
+            "color": "#7ED076",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.5
@@ -43,7 +43,7 @@
               { 
             "zooms": "13-15",
           "stylers": {
-            "color": "#3DE19A",
+            "color": "#7ED076",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.3
@@ -52,7 +52,7 @@
               { 
             "zooms": "15-132",
           "stylers": {
-            "color": "#3DE19A",
+            "color": "#7ED076",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.4
@@ -68,7 +68,7 @@
               { 
             "zooms": "0-7",
           "stylers": {
-            "color": "#FCE954",
+            "color": "#EAD116",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.7
@@ -77,7 +77,7 @@
               { 
             "zooms": "7-9",
           "stylers": {
-            "color": "#FCE954",
+            "color": "#EAD116",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.7
@@ -86,7 +86,7 @@
               { 
             "zooms": "9-12",
           "stylers": {
-            "color": "#FCE954",
+            "color": "#EAD116",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.55
@@ -95,7 +95,7 @@
               { 
             "zooms": "12-13",
           "stylers": {
-            "color": "#FCE954",
+            "color": "#EAD116",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.5
@@ -104,7 +104,7 @@
               { 
             "zooms": "13-15",
           "stylers": {
-            "color": "#FCE954",
+            "color": "#EAD116",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.3
@@ -113,7 +113,7 @@
               { 
             "zooms": "15-132",
           "stylers": {
-            "color": "#FCE954",
+            "color": "#EAD116",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.4
@@ -129,7 +129,7 @@
               { 
             "zooms": "0-7",
           "stylers": {
-            "color": "#F9667F",
+            "color": "#D9866A",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.7
@@ -138,7 +138,7 @@
               { 
             "zooms": "7-9",
           "stylers": {
-            "color": "#F9667F",
+            "color": "#D9866A",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.7
@@ -147,7 +147,7 @@
               { 
             "zooms": "9-12",
           "stylers": {
-            "color": "#F9667F",
+            "color": "#D9866A",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.55
@@ -156,7 +156,7 @@
               { 
             "zooms": "12-13",
           "stylers": {
-            "color": "#F9667F",
+            "color": "#D9866A",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.5
@@ -165,7 +165,7 @@
               { 
             "zooms": "13-15",
           "stylers": {
-            "color": "#F9667F",
+            "color": "#D9866A",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.3
@@ -174,7 +174,7 @@
               { 
             "zooms": "15-132",
           "stylers": {
-            "color": "#F9667F",
+            "color": "#D9866A",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.4
@@ -190,7 +190,7 @@
               { 
             "zooms": "0-7",
           "stylers": {
-            "color": "#D13F54",
+            "color": "#A65B4E",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.7
@@ -199,7 +199,7 @@
               { 
             "zooms": "7-9",
           "stylers": {
-            "color": "#D13F54",
+            "color": "#A65B4E",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.7
@@ -208,7 +208,7 @@
               { 
             "zooms": "9-12",
           "stylers": {
-            "color": "#D13F54",
+            "color": "#A65B4E",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.55
@@ -217,7 +217,7 @@
               { 
             "zooms": "12-13",
           "stylers": {
-            "color": "#D13F54",
+            "color": "#A65B4E",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.5
@@ -226,7 +226,7 @@
               { 
             "zooms": "13-15",
           "stylers": {
-            "color": "#D13F54",
+            "color": "#A65B4E",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.3
@@ -235,7 +235,7 @@
               { 
             "zooms": "15-132",
           "stylers": {
-            "color": "#D13F54",
+            "color": "#A65B4E",
             "outline-color": "#fff",
             "image-url": "",
             "scale": 0.4
