@@ -34,33 +34,17 @@
 				"color": "#E6F2E3"
 			},
 			{
-        "zoom": [0, 9],
-        "color": "#c6e7ca35"
+        "zoom": [0, 12],
+        "color": "#c6e7ca30"
       },
       {
-        "zoom": [9, 10],
-				"color": "#c6e7ca40"
-      },
-      { 
-        "zoom": [10, 11],
-        "opacity": 0.5,
+        "zoom": [12, 13],
 				"color": "#D1EBD350"
       },
       { 
-        "zoom": [11,12],
-        "opacity": 0.4,
-				"color": "#D1EBD340"
-      },
-      { 
-        "zoom": [12, 13],
-        "opacity": 0.35,
-				"color": "#D1EBD335"
-      },
-      { 
         "zoom": [13, 14],
-				"opacity": 0.9,
 				"color": "#E6F2E390"
-			}
+      }
 		]
 	},
 	{
@@ -80,10 +64,6 @@
 		"stylers": [
 			{
 				"color":"#F5F2E8"
-			},
-			{
-        "zoom": [13, 15],
-        "opacity": 0
 			},
 			{
         "zoom": [15, 16],
