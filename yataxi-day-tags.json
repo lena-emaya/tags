@@ -650,6 +650,18 @@
 	{
 		"types": "point",
 		"tags":{
+			"any":["locality"]
+		},
+		"elements":"label.icon",
+		"stylers": 
+			{
+				"lightness":0.2,
+				"scale": 0.9
+			}
+	},
+	{
+		"types": "point",
+		"tags":{
 			"any":["district"]
 		},
 		"elements": "label.text.fill",
