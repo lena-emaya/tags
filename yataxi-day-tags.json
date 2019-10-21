@@ -549,7 +549,7 @@
 		"stylers": [
 			{
 				"lightness": 0.4,
-				"saturation": 1
+				"scale": 0.82
 			}
 		]
 	},
@@ -560,7 +560,7 @@
 		},
 		"stylers": 
 			{
-				"scale": 0.85,
+				"scale": 0.9,
 				"lightness": 0.45,
 				"saturation": -1
 			}
