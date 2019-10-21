@@ -141,8 +141,8 @@
 				"lightness": 0
 			},
 			{
-				"zoom": [3, 9],
-				"color": "#EBE8DA"
+				"zoom": [5, 7],
+				"color": "#9E9983"
 			},
 			{
 				"zoom": [9, 10],
@@ -343,7 +343,7 @@
     },
     "stylers": [
       {
-				"color": "#D1CDBA",
+				"color": "#D1CBAB",
 				"scale": 0.6
 			},
 			{	
@@ -364,7 +364,7 @@
     },
     "stylers": [
       {
-				"color": "#D1CDBA",
+				"color": "#D1CBAB",
 				"scale": 0.6
 			},
 			{	
@@ -385,7 +385,7 @@
     },
     "stylers": [
       {
-				"color": "#D1CDBA",
+				"color": "#D1CBAB",
 				"scale": 0.6
 			},
 			{	
@@ -402,7 +402,7 @@
     },
     "stylers": [
       {
-				"color": "#D1CDBA",
+				"color": "#D1CBAB",
 				"scale": 0.6
 			},
 			{	
@@ -419,7 +419,7 @@
 		},
 		"elements": "geometry.outline",
 		"stylers": {
-			"color": "#ddd9ca",
+			"color": "#D1CDB6",
 			"scale": 0.5
 		}
 	},
