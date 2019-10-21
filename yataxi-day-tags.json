@@ -572,8 +572,8 @@
 		},
 		"stylers": [
 			{
-				"lightness": 0.35,
-				"scale": 0.9
+				"lightness": 0.6,
+				"scale": 0.8
 			},
 			{
 				"zoom": [0, 12],
