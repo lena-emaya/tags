@@ -786,18 +786,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#ffffff40"
-			}
-	},
-	{
-		"types": "polyline",
-		"tags":{
-			"any":["is_tunnel"]
-		},
-		"elements":"geometry.fill",
-		"stylers": 
-			{
-				"color": "F9F7F2"
+				"color": "FCFCF7"
 			}
 	},
 	{
