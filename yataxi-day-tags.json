@@ -431,13 +431,8 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#CECABB",
-				"scale": 0.9
-			},
-			{
-        "zoom": [0, 16],
-        "visibility": "off"
-      }
+				"color": "#CECABB"
+			}
 		]
 	},
 	{
