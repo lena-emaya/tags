@@ -142,16 +142,18 @@
 			},
 			{
 				"zoom": [5, 9],
-				"color": "#9E9983"
+				"color": "#9E9983",
+				"scale": 0.3
 			},
 			{
 				"zoom": [9, 12],
 				"color": "#E4E0D2",
-				"scale": 0.6
+				"scale": 0.3
 			},
 			{
 				"zoom": [12, 13],
-				"color": "#F7F5EB"
+				"color": "#F7F5EB",
+				"scale": 0.3
 			},
 			{
 				"zoom": [13, 15],
