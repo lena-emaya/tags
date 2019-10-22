@@ -339,7 +339,7 @@
     "types": "polyline",
     "elements": "geometry.outline",
     "tags": {
-      "any": ["road_1", "road_2", "road_3", "road_4", "road_5"]
+      "any": ["road_1", "road_2", "road_3", "road_4"]
     },
     "stylers": [
       {
@@ -376,7 +376,7 @@
     "types": "polyline",
     "elements": "geometry.outline",
     "tags": {
-      "any": ["road_6"]
+      "any": ["road_5","road_6"]
     },
     "stylers": [
       {
