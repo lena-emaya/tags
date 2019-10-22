@@ -602,10 +602,14 @@
 		},
 		"stylers": [
 			{
-				"saturation": -0.1
+				"saturation": 0.4,
+				"lightness": 0.1
 			},
 			{
 				"zoom": [0, 15],
+				"hue": -0.05,
+				"saturation": 0.3,
+				"lightness": 0,
         "scale": 0.9
 			},
 			{
