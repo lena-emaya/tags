@@ -3,7 +3,7 @@
 		"types": "polygon",
 		"elements": "geometry.fill",
 		"tags": {
-      "any": ["land"]
+      "any": ["background"]
     },
 	  "stylers": {
 	  	"color": "#565E73"
