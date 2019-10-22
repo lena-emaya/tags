@@ -2,8 +2,11 @@
 	{ "comment": "instead background",
 		"types": "polygon",
 		"elements": "geometry.fill",
+		"tags": {
+      "any": ["land"]
+    },
 	  "stylers": {
-	  	"color": "#F9F7F2"
+	  	"color": "#565E73"
 	  }
 	},
 	{
@@ -13,8 +16,7 @@
 	  	"any": [
 				"admin", 
 				"urban_area", 
-				"poi", 
-				"land", 
+				"poi",
 				"residental",
 				"country", 
 				"region"
