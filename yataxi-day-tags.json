@@ -136,7 +136,7 @@
     },
     "stylers": [
 			{
-				"color": "#fff",
+				"color": "#E4E0D2",
 				"lightness": 0,
 				"scale": 0.5
 			},
@@ -158,12 +158,10 @@
 			},
 			{
 				"zoom": [10, 11],
-				"scale": 0.25,
-				"color": "#E4E0D2"
+				"scale": 0.25
 			},
 			{
 				"zoom": [11, 12],
-				"color": "#E4E0D2",
 				"scale": 0.3
 			},
 			{
@@ -173,25 +171,27 @@
 			},
 			{
 				"zoom": [13, 14],
-				
+				"lightness": 1,
 				"scale": 0.4
 			},
 			{
 				"zoom": [14, 15],
-			
+				"lightness": 1,
 				"scale": 0.5
 			},
 			{
 				"zoom": [15, 16],
-				
+				"lightness": 1,
 				"scale": 0.55
 			},
 			{
 				"zoom": [16, 17],
+				"lightness": 1,
 				"scale": 0.6
 			},
 			{
 				"zoom": [17, 21],
+				"lightness": 1,
 				"scale": 0.65
 			}
 		]
@@ -204,11 +204,11 @@
     },
     "stylers": [
 			{
-				"color": "#23AAB3",
+				"color": "#8D0F99",
 				"scale": 0.65
 			},
 			{
-				"zoom": [0, 7],
+				"zoom": [5, 7],
 				"scale": 0.2
 			},
 			{
@@ -220,12 +220,16 @@
 				"scale": 0.25
 			},
 			{
-				"zoom": [9, 11],
-				"scale": 0.3
+				"zoom": [9, 10],
+				"scale": 0.25
+			},
+			{
+				"zoom": [10, 11],
+				"scale": 0.25
 			},
 			{
 				"zoom": [11, 12],
-				"scale": 0.4
+				"scale": 0.3
 			},
 			{
 				"zoom": [12, 13],
