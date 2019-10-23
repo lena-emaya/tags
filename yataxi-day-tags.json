@@ -621,6 +621,19 @@
 	{
 		"types": "point",
 		"tags":{
+			"all":["road"]
+		},
+		"elements": "label.text",
+		"stylers": [
+			{
+				"lightness": 0,
+				"scale": 0.82
+			}
+		]
+	},
+	{
+		"types": "point",
+		"tags":{
 			"any":["entrance"]
 		},
 		"stylers": 
