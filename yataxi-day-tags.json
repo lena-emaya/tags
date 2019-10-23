@@ -597,8 +597,8 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.4,
-				"scale": 0.82
+				"lightness": 0.2,
+				"scale": 0.1
 			}
 		]
 	},
