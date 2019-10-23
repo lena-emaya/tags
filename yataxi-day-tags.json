@@ -613,8 +613,8 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.4,
-				"scale": 0.82
+				"lightness": 0.2,
+				"scale": 0.9
 			}
 		]
 	},
@@ -627,7 +627,7 @@
 		"stylers": [
 			{
 				"lightness": 0,
-				"scale": 0.82
+				"scale": 0.9
 			}
 		]
 	},
