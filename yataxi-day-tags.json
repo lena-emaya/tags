@@ -142,15 +142,18 @@
 			},
 			{
 				"zoom": [5, 7],
-				"scale": 0.2
+				"scale": 0.2,
+				"outline-color": "#9E9983"
 			},
 			{
 				"zoom": [7, 8],
-				"scale": 0.3
+				"scale": 0.3,
+				"outline-color": "#9E9983"
 			},
 			{
 				"zoom": [8, 9],
-				"scale": 0.25
+				"scale": 0.25,
+				"outline-color": "#9E9983"
 			},
 			{
 				"zoom": [9, 11],
