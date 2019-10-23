@@ -164,12 +164,12 @@
 			{
 				"zoom": [11, 12],
 				"color": "#E4E0D2",
-				"scale": 0.55
+				"scale": 0.35
 			},
 			{
 				"zoom": [12, 13],
 				"color": "#F7F5EB",
-				"scale": 0.6
+				"scale": 0.4
 			},
 			{
 				"zoom": [13, 21],
