@@ -375,7 +375,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#CECABB"
+				"color": "#8C8C8C"
 			}
 		]
 	},
@@ -441,8 +441,8 @@
 		"stylers": [
 			{
 				"lightness": 0.5,
-				"hue": 0.3,
-				"saturation": -0.2				
+				"hue": -0.3,
+				"saturation": 0.6				
 			},
 			{
         "zoom": [0, 15],
@@ -715,7 +715,7 @@
 		},
 		"stylers": 
 			{
-				"lightness": 0.4
+				"lightness": 0.3
 			}
 	},
 	{
