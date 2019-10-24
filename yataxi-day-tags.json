@@ -202,6 +202,19 @@
 	},
 	{
     "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_4"]
+    },
+    "stylers": [
+			{
+				"zoom": [9, 10],
+				"scale": 0.8
+			}
+		]
+	},
+	{
+    "types": "polyline",
     "elements": "geometry.outline",
     "tags": {
 			"any": ["road"]
