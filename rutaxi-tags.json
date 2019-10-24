@@ -289,12 +289,12 @@
 			{
 				"zoom": [10, 11],
 				"scale": 0.9,
-				"color": "#CCCCCC"
+				"color": "#E6E3D3"
 			},
 			{
 				"zoom": [11, 12],
 				"scale": 0.9,
-				"color": "#CCCCCC"
+				"color": "#E6E3D3"
 			}
 		]
 	},
@@ -308,12 +308,12 @@
 			{
 				"zoom": [11, 12],
 				"scale": 0.9,
-				"color": "#CCCCCC"
+				"color": "#E6E3D3"
 			},
 			{
 				"zoom": [12, 13],
 				"scale": 0.9,
-				"color": "#CCCCCC"
+				"color": "#E6E3D3"
 			}
 		]
 	},
@@ -327,7 +327,7 @@
 			{
 				"zoom": [13, 14],
 				"scale": 1,
-				"color": "#CCCCCC"
+				"color": "#E6E3D3"
 			}
 		]
 	},
