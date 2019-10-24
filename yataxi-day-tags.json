@@ -285,8 +285,8 @@
 			},
 			{
 				"zoom": [13, 14],
-				"scale": 0.5,
-				"color": "#E6E3D3"
+				"scale": 1,
+				"color": "#FF5C94"
 			}
 		]
 	},
