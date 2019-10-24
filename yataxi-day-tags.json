@@ -102,11 +102,6 @@
 		"stylers": 
 			[
 				{
-					"zoom": [0, 10],
-					"color": "#B3B1A4",
-					"scale": 0.15
-				},
-				{
 					"zoom": [10, 21],
 					"color": "#B3B1A4",
 					"scale": 0.15
