@@ -247,7 +247,21 @@
 			}
 		]
 	},
-
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_5"]
+    },
+    "stylers": [
+			{
+				"zoom": [9, 10],
+				"scale": 0.8,
+				"color": "#f00"
+			
+			}
+		]
+	},
 	{
     "types": "polyline",
     "elements": "geometry.fill",
