@@ -67,11 +67,13 @@
 			},
 			{
         "zoom": [15, 16],
-        "color": "#F4F1E7"
+				"color": "#F4F1E7",
+				"opacity": 0.5
 			},
 			{
         "zoom": [16, 17],
-        "color": "#F4F1E7"
+				"color": "#F4F1E7",
+				"opacity": 0.8
 			},
 			{
         "zoom": [17, 18],
