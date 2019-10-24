@@ -140,30 +140,24 @@
 			},
 			{
 				"zoom": [5, 7],
-				"scale": 0.8,
-				"color": "#E4E0D2"
+				"scale": 0.8
 			},
 			{
 				"zoom": [7, 8],
-				"scale": 0.6,
-				"color": "#E4E0D2"
+				"scale": 0.6
 			},
 			{
-				"zoom": [8, 9],
-				"color": "#E4E0D2"
+				"zoom": [8, 9]
 			},
 			{
-				"zoom": [9, 10],
-				"color": "#E6E3D3"
+				"zoom": [9, 10]
 			},
 			{
 				"zoom": [10, 12],
-				"scale": 0.5,
-				"color": "#E4E0D2"
+				"scale": 0.5
 			},
 			{
 				"zoom": [12, 13],
-				"color": "#F7F5EB",
 				"scale": 0.55
 			},
 			{
