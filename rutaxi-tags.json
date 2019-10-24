@@ -441,7 +441,6 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.5,
 				"hue": 0.1,
 				"saturation": 0.6				
 			},
