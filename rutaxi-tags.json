@@ -10,16 +10,6 @@
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "tags": {
-	  	"any": [ "urban-area"]
-	  },
-	  "stylers": {
-	  	"color": "#EAEAE4"
-	  }
-	},
-	{
-		"types": "polygon",
-		"elements": "geometry.fill",
-	  "tags": {
 	  	"any": [
 				"admin", 
 				"poi",
@@ -31,6 +21,16 @@
 	  },
 	  "stylers": {
 	  	"color": "#F7F5E9"
+	  }
+	},
+	{
+		"types": "polygon",
+		"elements": "geometry.fill",
+	  "tags": {
+	  	"any": [ "urban-area"]
+	  },
+	  "stylers": {
+	  	"color": "#EAEAE4"
 	  }
 	},
 	{
@@ -339,7 +339,7 @@
 		"elements": "geometry.fill",
 		"stylers": {
 			"hue": -0.75,
-			"saturation": 1,
+			"saturation": -1,
 			"lightness": 0.2,
 			"scale": 0.5
 		}
@@ -351,7 +351,7 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"color": "#E6E3D5",
+			"color": "#ccc",
 			"scale": 0.5
 		}
 	},
@@ -715,7 +715,7 @@
 		},
 		"stylers": 
 			{
-				"visibility": "off"
+				"lightness": 0.4
 			}
 	},
 	{
