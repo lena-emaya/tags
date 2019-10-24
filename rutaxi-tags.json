@@ -442,7 +442,7 @@
 		"stylers": [
 			{
 				"lightness": 0.5,
-				"hue": -0.3,
+				"hue": -0.8,
 				"saturation": 0.6				
 			},
 			{
@@ -459,9 +459,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"lightness": 0.5,
-				"hue": 0.3,
-				"saturation": -0.2
+				"color": "#82BF4C"
 			},
 			{
         "zoom": [0, 15],
