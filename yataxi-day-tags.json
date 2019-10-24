@@ -257,7 +257,7 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-			"any": ["road_5", "road_6"]
+			"any": ["road_5"]
     },
     "stylers": [
 			{
@@ -268,6 +268,25 @@
 			{
 				"zoom": [11, 12],
 				"scale": 0.5,
+				"color": "#E6E3D3"
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_6"]
+    },
+    "stylers": [
+			{
+				"zoom": [11, 12],
+				"scale": 0.9,
+				"color": "#E6E3D3"
+			},
+			{
+				"zoom": [12, 13],
+				"scale": 2,
 				"color": "#E6E3D3"
 			}
 		]
