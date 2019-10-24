@@ -159,12 +159,7 @@
 				"color": "#E6E3D3"
 			},
 			{
-				"zoom": [10, 11],
-				"scale": 0.3,
-				"color": "#E4E0D2"
-			},
-			{
-				"zoom": [11, 12],
+				"zoom": [10, 12],
 				"scale": 0.3,
 				"color": "#E4E0D2"
 			},
@@ -174,14 +169,8 @@
 				"scale": 0.35
 			},
 			{
-				"zoom": [13, 14],
-				"lightness": 1,
-				"scale": 0.4
-			},
-			{
-				"zoom": [14, 15],
-				"lightness": 1,
-				"scale": 0.5
+				"zoom": [13, 15],
+				"lightness": 1
 			},
 			{
 				"zoom": [15, 16],
@@ -226,22 +215,21 @@
 			},
 			{
 				"zoom": [5, 7],
+				"color": "#465FFA",
 				"scale": 0.5
 			},
 			{
 				"zoom": [7, 8],
+				"color": "#465FFA",
 				"scale": 0.3
 			},
 			{
 				"zoom": [8, 9],
+				"color": "#465FFA",
 				"scale": 0.2
 			},
 			{
-				"zoom": [9, 11],
-				"scale": 0.3
-			},
-			{
-				"zoom": [11, 12],
+				"zoom": [9, 12],
 				"scale": 0.3
 			},
 			{
