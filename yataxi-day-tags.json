@@ -39,7 +39,7 @@
       },
       {
         "zoom": [12, 13],
-				"color": "#D1EBD350"
+				"color": "#E6F2E360"
       },
       { 
         "zoom": [13, 14],
@@ -67,15 +67,15 @@
 			},
 			{
         "zoom": [15, 16],
-        "color": "#F4F1E730"
+        "color": "#F4F1E7"
 			},
 			{
         "zoom": [16, 17],
-        "color": "#F4F1E780"
+        "color": "#F4F1E7"
 			},
 			{
         "zoom": [17, 18],
-        "color": "#F4F1E790"
+        "color": "#F4F1E7"
 			}
 		]
 	},
@@ -326,7 +326,7 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"color": "#E6E3D500",
+			"color": "#E6E3D5",
 			"scale": 0.5
 		}
 	},
