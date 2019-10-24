@@ -197,10 +197,23 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
+			"any": ["road_1","road_2"]
+    },
+    "stylers": [
+			{
+				"color": "#F2A03D"
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
 			"any": ["road_3","road_4"]
     },
     "stylers": [
 			{
+				"color": "#F2A03D",
 				"zoom": [9, 10],
 				"scale": 0.8
 			}
