@@ -338,23 +338,6 @@
     "types": "polyline",
     "elements": "geometry.outline",
     "tags": {
-      "any": ["road_limited","road_unclassified"]
-    },
-    "stylers": [
-      {
-				"color": "#E6E3D500",
-				"scale": 0.6
-			},
-			{	
-				"zoom": [0, 14],
-				"scale": 0
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.outline",
-    "tags": {
       "any": ["road_construction","road_minor"]
     },
     "stylers": [
