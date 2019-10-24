@@ -280,14 +280,9 @@
     },
     "stylers": [
 			{
-				"zoom": [11, 12],
+				
 				"scale": 0.9,
-				"color": "#E6E3D3"
-			},
-			{
-				"zoom": [12, 13],
-				"scale": 0.5,
-				"color": "#E6E3D3"
+				"color": "#7ED076"
 			}
 		]
 	},
