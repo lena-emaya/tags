@@ -3,7 +3,17 @@
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "stylers": {
-	  	"color": "#F9F7F2"
+	  	"color": "#F7F5E9"
+	  }
+	},
+	{
+		"types": "polygon",
+		"elements": "geometry.fill",
+	  "tags": {
+	  	"any": [ "urban-area"]
+	  },
+	  "stylers": {
+	  	"color": "#EAEAE4"
 	  }
 	},
 	{
@@ -12,7 +22,6 @@
 	  "tags": {
 	  	"any": [
 				"admin", 
-				"urban_area", 
 				"poi",
 				"land",
 				"residental",
@@ -21,7 +30,7 @@
 			]
 	  },
 	  "stylers": {
-	  	"color": "#F9F7F2"
+	  	"color": "#F7F5E9"
 	  }
 	},
 	{
