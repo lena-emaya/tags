@@ -244,12 +244,12 @@
 			{
 				"zoom": [13, 14],
 				"color": "#B3B3B3",
-				"scale": 0.45
+				"scale": 1
 			},
 			{
 				"zoom": [14, 15],
 				"color": "#B3B3B3",
-				"scale": 0.55
+				"scale": 0.65
 			},
 			{
 				"zoom": [15, 16],
@@ -289,12 +289,12 @@
 			{
 				"zoom": [10, 11],
 				"scale": 0.9,
-				"color": "#E6E3D3"
+				"color": "#B3B3B3"
 			},
 			{
 				"zoom": [11, 12],
 				"scale": 0.9,
-				"color": "#E6E3D3"
+				"color": "#B3B3B3"
 			}
 		]
 	},
@@ -308,12 +308,12 @@
 			{
 				"zoom": [11, 12],
 				"scale": 0.9,
-				"color": "#E6E3D3"
+				"color": "#B3B3B3"
 			},
 			{
 				"zoom": [12, 13],
 				"scale": 0.9,
-				"color": "#E6E3D3"
+				"color": "#B3B3B3"
 			}
 		]
 	},
@@ -327,7 +327,7 @@
 			{
 				"zoom": [13, 14],
 				"scale": 1,
-				"color": "#E6E3D3"
+				"color": "#B3B3B3"
 			}
 		]
 	},
@@ -556,7 +556,7 @@
 		"elements":"label.text.fill",
 		"stylers": 
 			{
-				"color": "#a4a096",
+				"color": "#666666",
 				"scale": 0.85
 			}
 	},
