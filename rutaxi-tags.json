@@ -311,12 +311,12 @@
 			{
 				"zoom": [11, 12],
 				"scale": 0.3,
-				"color": "#D1D1D1"
+				"color": "#CCCCCC"
 			},
 			{
 				"zoom": [12, 13],
 				"scale": 0.3,
-				"color": "#D1D1D1"
+				"color": "#CCCCCC"
 			}
 		]
 	},
