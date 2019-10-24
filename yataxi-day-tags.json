@@ -302,18 +302,10 @@
 				"zoom": [13, 14],
 				"scale": 1.4,
 				"color": "#E6E3D3"
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.fill",
-    "tags": {
-			"any": ["road_minor"]
-    },
-    "stylers": [
+			},
 			{
-				"scale": 1.4,
+				"zoom": [14, 15],
+				"scale": 1,
 				"color": "#465FFA"
 			}
 		]
