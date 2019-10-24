@@ -100,13 +100,10 @@
 		},
 		"elements":"geometry.fill",
 		"stylers": 
-			[
-				{
-					"zoom": [10, 21],
-					"color": "#B3B1A4",
-					"scale": 0.5
-				}
-			]
+			{
+				"color": "#FF5C94",
+				"scale": 0.15
+			}
 	},
 	
 	{
