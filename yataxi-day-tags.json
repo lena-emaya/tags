@@ -100,10 +100,18 @@
 		},
 		"elements":"geometry.fill",
 		"stylers": 
-			{
-				"color": "#999588",
-				"scale": 0.15
-			}
+			[
+				{
+					"zoom": [0, 8],
+					"color": "#999588",
+					"scale": 0.15
+				},
+				{
+					"zoom": [8, 21],
+					"color": "#999588",
+					"scale": 0.05
+				}
+			]
 	},
 	
 	{
