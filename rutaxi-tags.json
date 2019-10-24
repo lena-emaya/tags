@@ -85,7 +85,7 @@
 		"stylers": 
 			{
 				"color": "#999588",
-				"scale": 0.7
+				"scale": 0.5
 			}
 	},
 	{
@@ -96,7 +96,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#B3B1A4",
+				"color": "#B3B1A400",
 				"scale": 0.15
 			}
 	},
