@@ -275,7 +275,7 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-			"any": ["road_7"]
+			"any": ["road_7", "road_limited", "road_unclassified"]
     },
     "stylers": [
 			{
@@ -290,26 +290,7 @@
 			}
 		]
 	},
-	{
-    "types": "polyline",
-    "elements": "geometry.fill",
-    "tags": {
-			"any": ["road_limited", "road_unclassified"]
-    },
-    "stylers": [
-			{
-				"color": "#E6E3D500",
-				"scale": 0.6,
-				"lightness": 1
-			},
-			{
-				"zoom": [11, 15],
-				"color": "#E6E3D500",
-				"scale": 1,
-				"lightness": 0
-			}
-		]
-	},
+	
 	{
     "types": "polyline",
     "elements": "geometry.fill",
