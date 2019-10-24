@@ -276,7 +276,7 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-			"any": ["road_7", "road_limited", "road_unclassified"]
+			"any": ["road_limited", "road_unclassified"]
     },
     "stylers": [
 			{
@@ -344,7 +344,7 @@
     "types": "polyline",
     "elements": "geometry.outline",
     "tags": {
-      "any": ["road_7", "road_limited","road_unclassified"]
+      "any": ["road_limited","road_unclassified"]
     },
     "stylers": [
       {
