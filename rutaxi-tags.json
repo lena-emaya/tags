@@ -235,35 +235,35 @@
 			},
 			{
 				"zoom": [9, 12],
-				"scale": 0.3
+				"scale": 0.35
 			},
 			{
 				"zoom": [12, 13],
-				"scale": 0.4
+				"scale": 0.45
 			},
 			{
 				"zoom": [13, 14],
 				"color": "#B3B3B3",
-				"scale": 0.4
+				"scale": 0.45
 			},
 			{
 				"zoom": [14, 15],
 				"color": "#B3B3B3",
-				"scale": 0.5
+				"scale": 0.55
 			},
 			{
 				"zoom": [15, 16],
 				"color": "#B3B3B3",
-				"scale": 0.55
+				"scale": 0.6
 			},
 			{
 				"zoom": [16, 17],
 				"color": "#B3B3B3",
-				"scale": 0.6
+				"scale": 0.65
 			},
 			{
 				"zoom": [17, 21],
-				"scale": 0.65
+				"scale": 0.7
 			}
 		]
 	},
