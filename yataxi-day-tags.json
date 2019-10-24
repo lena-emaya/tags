@@ -133,7 +133,7 @@
     "elements": "geometry.fill",
     "tags": {
 			"any": ["road"],
-			"none": ["path"]
+			"none": ["path", "crosswalk"]
     },
     "stylers": [
 			{
