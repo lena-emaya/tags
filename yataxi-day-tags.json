@@ -132,7 +132,8 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-			"any": ["road"]
+			"any": ["road"],
+			"none": ["path"]
     },
     "stylers": [
 			{
