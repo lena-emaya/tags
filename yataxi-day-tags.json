@@ -204,7 +204,7 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-			"any": ["road_4"]
+			"any": ["road_3","road_4"]
     },
     "stylers": [
 			{
