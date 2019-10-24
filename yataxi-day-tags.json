@@ -169,7 +169,12 @@
 				"scale": 0.35
 			},
 			{
-				"zoom": [13, 15],
+				"zoom": [13, 14],
+				"scale": 0.42,
+				"lightness": 1
+			},
+			{
+				"zoom": [14, 15],
 				"lightness": 1
 			},
 			{
@@ -251,7 +256,7 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-			"any": ["road_5"]
+			"any": ["road_5", "road_6"]
     },
     "stylers": [
 			{
