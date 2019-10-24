@@ -220,18 +220,7 @@
 			}
 		]
 	},
-	{
-    "types": "polyline",
-    "elements": "geometry.outline",
-    "tags": {
-			"any": ["road_1","road_2", "road_3","road_4"]
-    },
-    "stylers": [
-			{
-				"color": "#fff"
-			}
-		]
-	},
+	
 	{
     "types": "polyline",
     "elements": "geometry.outline",
@@ -274,6 +263,18 @@
 			{
 				"zoom": [17, 21],
 				"scale": 0.65
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.outline",
+    "tags": {
+			"any": ["road_1","road_2", "road_3","road_4"]
+    },
+    "stylers": [
+			{
+				"color": "#fff"
 			}
 		]
 	},
