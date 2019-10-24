@@ -14,7 +14,6 @@
 				"admin", 
 				"poi",
 				"land",
-				"residental",
 				"country", 
 				"region"
 			]
@@ -658,7 +657,7 @@
 		},
 	  "stylers": 
 			{
-				"color": "#75705E",
+				"color": "#333333",
 				"scale": 0.8
 			}
 	},
@@ -670,7 +669,7 @@
 		},
 	  "stylers": 
 			{
-				"color": "#75705E",
+				"color": "#333333",
 				"scale": 0.88
 			}
 	},
@@ -682,7 +681,7 @@
 		},
 	  "stylers":
 			{
-				"color": "#75705E",
+				"color": "#333333",
 				"scale": 0.95
 			}
 	},
