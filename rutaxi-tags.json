@@ -442,7 +442,7 @@
 		"stylers": [
 			{
 				"lightness": 0.5,
-				"hue": -0.8,
+				"hue": 0.1,
 				"saturation": 0.6				
 			},
 			{
@@ -736,7 +736,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#F9F7F2"
+				"color": "#F7F5E9"
 			}
 	},
 	{
@@ -747,7 +747,7 @@
 		"elements":"geometry.outline",
 		"stylers": 
 			{
-				"color": "#D1CBAB"
+				"color": "#B3B3B3"
 			}
 	}
 ]
