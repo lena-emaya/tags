@@ -225,11 +225,23 @@
     "types": "polyline",
     "elements": "geometry.outline",
     "tags": {
+			"any": ["road_1","road_2", "road_3","road_4"]
+    },
+    "stylers": [
+			{
+				"color": "#fff"
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.outline",
+    "tags": {
 			"any": ["road"]
     },
     "stylers": [
 			{
-				"color": "#D1CBAB",
+				"color": "#B3B3B3",
 				"scale": 0.65
 			},
 			{
@@ -242,22 +254,22 @@
 			},
 			{
 				"zoom": [13, 14],
-				"color": "#9E9872",
+				"color": "#B3B3B3",
 				"scale": 0.4
 			},
 			{
 				"zoom": [14, 15],
-				"color": "#C3BC95",
+				"color": "#B3B3B3",
 				"scale": 0.5
 			},
 			{
 				"zoom": [15, 16],
-				"color": "#C3BC95",
+				"color": "#B3B3B3",
 				"scale": 0.55
 			},
 			{
 				"zoom": [16, 17],
-				"color": "#C3BC95",
+				"color": "#B3B3B3",
 				"scale": 0.6
 			},
 			{
