@@ -531,14 +531,11 @@
 		},
 		"stylers": [
 			{
-				"saturation": 0.4,
-				"lightness": 0.1
+				"saturation": -1,
+				"lightness": 0.2
 			},
 			{
 				"zoom": [0, 15],
-				"hue": -0.05,
-				"saturation": 0.3,
-				"lightness": 0,
         "scale": 0.9
 			},
 			{
@@ -658,11 +655,16 @@
 			"any":["district"]
 		},
 		"elements": "label.text.outline",
-		"stylers": 
+		"stylers": [
 			{
 				"color": "#ffffff60",
 				"scale": 0.9
+			},
+			{
+				"zoom": [14, 22],
+				"visibility": "off"
 			}
+		]
 	},
 	{
 		"types": "point",
@@ -774,7 +776,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#F9F7F2"
+				"color": "#7C7E80"
 			}
 	},
 	{
@@ -785,7 +787,7 @@
 		"elements":"geometry.outline",
 		"stylers": 
 			{
-				"color": "#D1CBAB"
+				"color": "#ccc"
 			}
 	}
 ]
