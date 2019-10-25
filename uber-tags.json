@@ -12,8 +12,10 @@
 	  "tags": {
 	  	"any": [
 				"admin", 
+				"urban_area", 
 				"poi",
 				"land",
+				"residental",
 				"country", 
 				"region"
 			]
@@ -24,23 +26,26 @@
 	},
 	{
 		"types": "polygon",
-		"elements": "geometry.fill",
-	  "tags": {
-	  	"any": [ "urban-area"]
-	  },
-	  "stylers": {
-	  	"color": "#E6E9EC"
-	  }
-	},
-	{
-		"types": "polygon",
     "tags": {
       "any": ["vegetation", "park"]
     },
-    "stylers": 
+    "stylers": [
 			{
 				"color": "#A7DFB6"
-			}
+			},
+			{
+        "zoom": [0, 12],
+        "color": "#A7DFB630"
+      },
+      {
+        "zoom": [12, 13],
+				"color": "#A7DFB660"
+      },
+      { 
+        "zoom": [13, 14],
+				"color": "#A7DFB690"
+      }
+		]
 	},
 	{
 		"types": ["polygon","polyline"],
@@ -84,8 +89,8 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#999588",
-				"scale": 0.5
+				"color": "#7C7E80",
+				"scale": 0.7
 			}
 	},
 	{
@@ -96,7 +101,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#B3B1A400",
+				"color": "#7C7E80",
 				"scale": 0.15
 			}
 	},
@@ -110,7 +115,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#999588",
+				"color": "#7C7E80",
 				"scale": 0.1
 			}
 	},
@@ -134,70 +139,61 @@
     },
     "stylers": [
 			{
-				"color": "#ffffff",
+				"color": "#fff",
 				"lightness": 0,
 				"scale": 0.5
 			},
 			{
 				"zoom": [5, 7],
-				"scale": 0.8
+				"scale": 0.8,
+				"color": "#fff"
 			},
 			{
 				"zoom": [7, 8],
-				"scale": 0.6
+				"scale": 0.6,
+				"color": "#fff"
 			},
 			{
 				"zoom": [8, 9],
-				"scale": 0.5
+				"color": "#fff"
 			},
 			{
 				"zoom": [9, 10],
-				"scale": 0.5
+				"color": "#fff"
 			},
 			{
 				"zoom": [10, 12],
-				"scale": 0.5
+				"scale": 0.3,
+				"color": "#fff"
 			},
 			{
 				"zoom": [12, 13],
-				"scale": 0.55
+				"color": "#fff",
+				"scale": 0.35
 			},
 			{
 				"zoom": [13, 14],
-				"scale": 0.6,
+				"scale": 0.42,
 				"lightness": 1
 			},
 			{
 				"zoom": [14, 15],
-				"lightness": 1,
-				"scale": 0.65
+				"lightness": 1
 			},
 			{
 				"zoom": [15, 16],
 				"lightness": 1,
-				"scale": 0.7
+				"scale": 0.55
 			},
 			{
 				"zoom": [16, 17],
 				"lightness": 1,
-				"scale": 0.7
+				"scale": 0.6
 			},
 			{
 				"zoom": [17, 21],
 				"lightness": 1,
-				"scale": 0.7
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.fill",
-    "tags": {
-			"any": ["road_1","road_2"]
-    },
-    "stylers": [
-			{
-				"color": "#A4B4DA"
+				"scale": 0.65
 			}
 		]
 	},
@@ -209,15 +205,11 @@
     },
     "stylers": [
 			{
-				"color": "#A4B4DA"
-			},
-			{
 				"zoom": [9, 10],
 				"scale": 0.8
 			}
 		]
 	},
-	
 	{
     "types": "polyline",
     "elements": "geometry.outline",
@@ -226,59 +218,36 @@
     },
     "stylers": [
 			{
-				"color": "#fff",
+				"color": "#D1CBAB00",
 				"scale": 0.65
 			},
 			{
-				"zoom": [8, 9],
-				"scale": 0.5
-			},
-			{
-				"zoom": [9, 10],
-				"scale": 0.5
-			},
-			{
-				"zoom": [10, 12],
-				"scale": 0.5
+				"zoom": [9, 12],
+				"scale": 0.3
 			},
 			{
 				"zoom": [12, 13],
-				"scale": 0.55
+				"scale": 0.4
 			},
 			{
 				"zoom": [13, 14],
-				"color": "#fff"
+				"scale": 0.4
 			},
 			{
 				"zoom": [14, 15],
-				"color": "#fff",
-				"scale": 0.65
+				"scale": 0.5
 			},
 			{
 				"zoom": [15, 16],
-				"color": "#fff",
-				"scale": 0.7
+				"scale": 0.55
 			},
 			{
 				"zoom": [16, 17],
-				"color": "#fff",
-				"scale": 0.7
+				"scale": 0.6
 			},
 			{
 				"zoom": [17, 21],
-				"scale": 0.7
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.outline",
-    "tags": {
-			"any": ["road_1","road_2", "road_3","road_4"]
-    },
-    "stylers": [
-			{
-				"color": "#95A1C9"
+				"scale": 0.65
 			}
 		]
 	},
@@ -291,13 +260,13 @@
     "stylers": [
 			{
 				"zoom": [10, 11],
-				"scale": 0.6,
-				"color": "#D1D1D1"
+				"scale": 0.9,
+				"color": "#fff"
 			},
 			{
 				"zoom": [11, 12],
-				"scale": 0.6,
-				"color": "#D1D1D1"
+				"scale": 0.9,
+				"color": "#fff"
 			}
 		]
 	},
@@ -310,13 +279,13 @@
     "stylers": [
 			{
 				"zoom": [11, 12],
-				"scale": 0.3,
-				"color": "#CCCCCC"
+				"scale": 0.9,
+				"color": "#fff"
 			},
 			{
 				"zoom": [12, 13],
-				"scale": 0.3,
-				"color": "#CCCCCC"
+				"scale": 0.9,
+				"color": "#fff"
 			}
 		]
 	},
@@ -329,8 +298,8 @@
     "stylers": [
 			{
 				"zoom": [13, 14],
-				"scale": 0.8,
-				"color": "#D1D1D1"
+				"scale": 1,
+				"color": "#fff"
 			}
 		]
 	},
@@ -342,8 +311,9 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"saturation": -1,
-			"lightness": 0.1,
+			"hue": -0.75,
+			"saturation": 1,
+			"lightness": 1,
 			"scale": 0.5
 		}
 	},
@@ -354,8 +324,9 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"color": "#ccc",
-			"scale": 0.5
+			"color": "#E6E3D5",
+			"scale": 0.5,
+			"lightness": 1
 		}
 	},
 	{
@@ -378,7 +349,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#8C8C8C"
+				"color": "#C2C2C2"
 			}
 		]
 	},
@@ -443,8 +414,9 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"hue": 0.15,
-				"saturation": 0.4				
+				"lightness": 0.5,
+				"hue": 0.3,
+				"saturation": -0.2				
 			},
 			{
         "zoom": [0, 15],
@@ -460,7 +432,9 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#82BF4C"
+				"lightness": 0.5,
+				"hue": 0.3,
+				"saturation": -0.2
 			},
 			{
         "zoom": [0, 15],
@@ -529,8 +503,7 @@
 		},
 		"stylers": [
 			{
-				"hue": -0.75,
-				"lightness": 0.15,
+				"lightness": 0.35,
 				"scale": 0.8
 			},
 			{
@@ -546,7 +519,23 @@
 		},
 		"stylers": [
 			{
+				"saturation": 0.4,
 				"lightness": 0.1
+			},
+			{
+				"zoom": [0, 15],
+				"hue": -0.05,
+				"saturation": 0.3,
+				"lightness": 0,
+        "scale": 0.9
+			},
+			{
+				"zoom": [15, 18],
+				"scale": 1
+			},
+			{
+        "zoom": [18, 22],
+        "scale": 1.05
 			}
 		]
 	},
@@ -558,7 +547,7 @@
 		"elements":"label.text.fill",
 		"stylers": 
 			{
-				"color": "#666666",
+				"color": "#a4a096",
 				"scale": 0.85
 			}
 	},
@@ -582,7 +571,7 @@
 		"elements":"label.text.fill",
 		"stylers": 
 			{
-				"color": "#666666",
+				"color": "#5e5845",
 				"scale": 0.9
 			}
 	},
@@ -606,7 +595,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#999999",
+				"color": "#a6a0a0",
 				"scale": 0.9
 			},
 			{
@@ -646,7 +635,7 @@
 		},
 		"elements": "label.text.fill",
 		"stylers": {
-			"color": "#6998D2",
+			"color": "#a1b2c4",
 			"scale": 0.9
 		}
 	},
@@ -658,7 +647,7 @@
 		},
 	  "stylers": 
 			{
-				"color": "#333333",
+				"color": "#75705E",
 				"scale": 0.8
 			}
 	},
@@ -670,7 +659,7 @@
 		},
 	  "stylers": 
 			{
-				"color": "#333333",
+				"color": "#75705E",
 				"scale": 0.88
 			}
 	},
@@ -682,7 +671,7 @@
 		},
 	  "stylers":
 			{
-				"color": "#333333",
+				"color": "#75705E",
 				"scale": 0.95
 			}
 	},
@@ -715,7 +704,7 @@
 		},
 		"stylers": 
 			{
-				"lightness": 0.3
+				"visibility": "off"
 			}
 	},
 	{
@@ -737,7 +726,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#F7F5E9"
+				"color": "#F9F7F2"
 			}
 	},
 	{
@@ -748,7 +737,7 @@
 		"elements":"geometry.outline",
 		"stylers": 
 			{
-				"color": "#B3B3B3"
+				"color": "#D1CBAB"
 			}
 	}
 ]
