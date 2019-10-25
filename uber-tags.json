@@ -390,7 +390,7 @@
 		"stylers": [
 			{
 				"lightness": 0.1,
-				"hue": -0.15,
+				"hue": 0.1,
 				"saturation": -0.2				
 			},
 			{
