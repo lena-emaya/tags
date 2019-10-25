@@ -337,7 +337,7 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.35,
+				"lightness": 0,
 				"saturation": -1,
 				"hue": 0.8
 			},
@@ -390,8 +390,8 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.5,
-				"hue": 0.3,
+				"lightness": 0.1,
+				"hue": -0.15,
 				"saturation": -0.2				
 			},
 			{
@@ -408,9 +408,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"lightness": 0.5,
-				"hue": 0.3,
-				"saturation": -0.2
+				"color": "#6B9F7D"
 			},
 			{
         "zoom": [0, 15],
@@ -740,7 +738,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#7C7E80"
+				"color": "#E6E9EC"
 			}
 	},
 	{
