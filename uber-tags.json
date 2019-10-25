@@ -477,7 +477,8 @@
 		},
 		"stylers": [
 			{
-				"lightness": 0.35,
+				"hue": -0.75,
+				"lightness": 0.15,
 				"scale": 0.8
 			},
 			{
