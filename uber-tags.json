@@ -226,7 +226,7 @@
     },
     "stylers": [
 			{
-				"color": "#999999",
+				"color": "#fff",
 				"scale": 0.65
 			},
 			{
@@ -247,21 +247,21 @@
 			},
 			{
 				"zoom": [13, 14],
-				"color": "#B3B3B3"
+				"color": "#fff"
 			},
 			{
 				"zoom": [14, 15],
-				"color": "#B3B3B3",
+				"color": "#fff",
 				"scale": 0.65
 			},
 			{
 				"zoom": [15, 16],
-				"color": "#B3B3B3",
+				"color": "#fff",
 				"scale": 0.7
 			},
 			{
 				"zoom": [16, 17],
-				"color": "#B3B3B3",
+				"color": "#fff",
 				"scale": 0.7
 			},
 			{
