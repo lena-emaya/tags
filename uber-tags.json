@@ -32,19 +32,7 @@
     "stylers": [
 			{
 				"color": "#A7DFB6"
-			},
-			{
-        "zoom": [0, 12],
-        "color": "#A7DFB630"
-      },
-      {
-        "zoom": [12, 13],
-				"color": "#A7DFB660"
-      },
-      { 
-        "zoom": [13, 14],
-				"color": "#A7DFB690"
-      }
+			}
 		]
 	},
 	{
@@ -194,6 +182,30 @@
 				"zoom": [17, 21],
 				"lightness": 1,
 				"scale": 0.65
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_1","road_2","road_3","road_4"]
+    },
+    "stylers": [
+			{
+				"color": "#A4B4DA"
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.outline",
+    "tags": {
+			"any": ["road_1","road_2","road_3","road_4"]
+    },
+    "stylers": [
+			{
+				"color": "#95A1C9"
 			}
 		]
 	},
