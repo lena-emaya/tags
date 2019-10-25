@@ -374,8 +374,9 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.4,
-				"saturation": -1
+				"lightness": 0.35,
+				"saturation": -1,
+				"hue": 0.8
 			},
 			{
         "zoom": [0, 17],
