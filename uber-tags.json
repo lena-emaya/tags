@@ -299,7 +299,7 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"color": "#E6E3D5",
+			"color": "#fff",
 			"scale": 0.5,
 			"lightness": 1
 		}
@@ -495,7 +495,7 @@
 		},
 		"stylers": [
 			{
-				"saturation": -1,
+				"saturation": -0.1,
 				"lightness": 0.2
 			},
 			{
