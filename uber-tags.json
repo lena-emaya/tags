@@ -133,55 +133,30 @@
 			},
 			{
 				"zoom": [5, 7],
-				"scale": 0.8,
-				"color": "#fff"
+				"scale": 0.8
 			},
 			{
 				"zoom": [7, 8],
-				"scale": 0.6,
-				"color": "#fff"
-			},
-			{
-				"zoom": [8, 9],
-				"color": "#fff"
-			},
-			{
-				"zoom": [9, 10],
-				"color": "#fff"
-			},
-			{
-				"zoom": [10, 12],
-				"scale": 0.3,
-				"color": "#fff"
+				"scale": 0.6
 			},
 			{
 				"zoom": [12, 13],
-				"color": "#fff",
-				"scale": 0.35
+				"scale": 0.55
 			},
 			{
 				"zoom": [13, 14],
-				"scale": 0.42,
+				"scale": 0.6,
 				"lightness": 1
 			},
 			{
 				"zoom": [14, 15],
-				"lightness": 1
-			},
-			{
-				"zoom": [15, 16],
-				"lightness": 1,
-				"scale": 0.55
-			},
-			{
-				"zoom": [16, 17],
-				"lightness": 1,
-				"scale": 0.6
-			},
-			{
-				"zoom": [17, 21],
 				"lightness": 1,
 				"scale": 0.65
+			},
+			{
+				"zoom": [15, 21],
+				"lightness": 1,
+				"scale": 0.7
 			}
 		]
 	},
@@ -194,18 +169,6 @@
     "stylers": [
 			{
 				"color": "#A4B4DA"
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.outline",
-    "tags": {
-			"any": ["road_1","road_2","road_3","road_4"]
-    },
-    "stylers": [
-			{
-				"color": "#95A1C9"
 			}
 		]
 	},
@@ -230,36 +193,36 @@
     },
     "stylers": [
 			{
-				"color": "#D1CBAB00",
+				"color": "#99999900",
 				"scale": 0.65
 			},
 			{
-				"zoom": [9, 12],
-				"scale": 0.3
-			},
-			{
-				"zoom": [12, 13],
-				"scale": 0.4
-			},
-			{
-				"zoom": [13, 14],
-				"scale": 0.4
-			},
-			{
-				"zoom": [14, 15],
+				"zoom": [8, 12],
 				"scale": 0.5
 			},
 			{
-				"zoom": [15, 16],
+				"zoom": [12, 13],
 				"scale": 0.55
 			},
 			{
-				"zoom": [16, 17],
+				"zoom": [13, 14],
 				"scale": 0.6
 			},
 			{
-				"zoom": [17, 21],
-				"scale": 0.65
+				"zoom": [15, 21],
+				"scale": 0.7
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.outline",
+    "tags": {
+			"any": ["road_1","road_2","road_3","road_4"]
+    },
+    "stylers": [
+			{
+				"color": "#95A1C9"
 			}
 		]
 	},
