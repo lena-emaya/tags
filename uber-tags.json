@@ -338,8 +338,7 @@
 		"stylers": [
 			{
 				"lightness": 0,
-				"saturation": -1,
-				"hue": 0.8
+				"saturation": -1
 			},
 			{
         "zoom": [0, 17],
