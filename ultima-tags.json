@@ -146,29 +146,29 @@
 			{
 				"zoom": [5, 7],
 				"scale": 0.8,
-				"color": "#E4E0D2"
+				"color": "#CDD0D2"
 			},
 			{
 				"zoom": [7, 8],
 				"scale": 0.6,
-				"color": "#E4E0D2"
+				"color": "#CDD0D2"
 			},
 			{
 				"zoom": [8, 9],
-				"color": "#E4E0D2"
+				"color": "#CDD0D2"
 			},
 			{
 				"zoom": [9, 10],
-				"color": "#E6E3D3"
+				"color": "#EDF0F1"
 			},
 			{
 				"zoom": [10, 12],
 				"scale": 0.3,
-				"color": "#E4E0D2"
+				"color": "#EDF0F1"
 			},
 			{
 				"zoom": [12, 13],
-				"color": "#F7F5EB",
+				"color": "#F5F7F7",
 				"scale": 0.35
 			},
 			{
@@ -218,7 +218,7 @@
     },
     "stylers": [
 			{
-				"color": "#D1CBAB",
+				"color": "#BEC1C4",
 				"scale": 0.65
 			},
 			{
@@ -231,22 +231,22 @@
 			},
 			{
 				"zoom": [13, 14],
-				"color": "#9E9872",
+				"color": "#BEC1C4",
 				"scale": 0.4
 			},
 			{
 				"zoom": [14, 15],
-				"color": "#C3BC95",
+				"color": "#BEC1C4",
 				"scale": 0.5
 			},
 			{
 				"zoom": [15, 16],
-				"color": "#C3BC95",
+				"color": "#BEC1C4",
 				"scale": 0.55
 			},
 			{
 				"zoom": [16, 17],
-				"color": "#C3BC95",
+				"color": "#BEC1C4",
 				"scale": 0.6
 			},
 			{
@@ -657,7 +657,7 @@
 		},
 		"elements": "label.text.fill",
 		"stylers": {
-			"color": "#a1b2c4",
+			"color": "#B8C7D9",
 			"scale": 0.9
 		}
 	},
@@ -669,7 +669,7 @@
 		},
 	  "stylers": 
 			{
-				"color": "#75705E",
+				"color": "#717375",
 				"scale": 0.8
 			}
 	},
@@ -681,7 +681,7 @@
 		},
 	  "stylers": 
 			{
-				"color": "#75705E",
+				"color": "#717375",
 				"scale": 0.88
 			}
 	},
@@ -693,7 +693,7 @@
 		},
 	  "stylers":
 			{
-				"color": "#75705E",
+				"color": "#717375",
 				"scale": 0.95
 			}
 	},
@@ -748,7 +748,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#F9F7F2"
+				"color": "#f7f9fa"
 			}
 	},
 	{
@@ -759,7 +759,7 @@
 		"elements":"geometry.outline",
 		"stylers": 
 			{
-				"color": "#D1CBAB"
+				"color": "#BEC1C4"
 			}
 	}
 ]
