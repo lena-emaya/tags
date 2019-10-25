@@ -385,8 +385,8 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.1,
-				"hue": 0.5,
+				"lightness": -0.1,
+				"hue": 0.35,
 				"saturation": -0.2				
 			},
 			{
