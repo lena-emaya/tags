@@ -136,7 +136,7 @@
 			{
 				"color": "#ffffff",
 				"lightness": 0,
-				"scale": 0.5
+				"scale": 0.55
 			},
 			{
 				"zoom": [5, 7],
@@ -145,10 +145,6 @@
 			{
 				"zoom": [7, 8],
 				"scale": 0.6
-			},
-			{
-				"zoom": [12, 13],
-				"scale": 0.55
 			},
 			{
 				"zoom": [13, 14],
