@@ -3,7 +3,7 @@
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "stylers": {
-	  	"color": "#F2F4F5"
+	  	"color": "#F0F5F5"
 	  }
 	},
 	{
@@ -21,7 +21,7 @@
 			]
 	  },
 	  "stylers": {
-	  	"color": "#F2F4F5"
+	  	"color": "#F0F5F5"
 	  }
 	},
 	{
@@ -31,19 +31,19 @@
     },
     "stylers": [
 			{
-				"color": "#E6F5EB"
+				"color": "#E6F2E3"
 			},
 			{
         "zoom": [0, 12],
-        "color": "#E6F5EB90"
+        "color": "#E6F2E3"
       },
       {
         "zoom": [12, 13],
-				"color": "#E6F5EB"
+				"color": "#E6F2E3"
       },
       { 
         "zoom": [13, 14],
-				"color": "#E6F5EB"
+				"color": "#E6F2E3"
       }
 		]
 	},
