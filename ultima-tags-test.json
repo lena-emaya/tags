@@ -31,19 +31,19 @@
     },
     "stylers": [
 			{
-				"color": "#E6F2E3"
+				"color": "#E1F0E6"
 			},
 			{
         "zoom": [0, 12],
-        "color": "#E6F2E3"
+        "color": "#E1F0E6"
       },
       {
         "zoom": [12, 13],
-				"color": "#E6F2E3"
+				"color": "#E1F0E6"
       },
       { 
         "zoom": [13, 14],
-				"color": "#E6F2E3"
+				"color": "#E1F0E6"
       }
 		]
 	},
