@@ -502,7 +502,8 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["transport"]
+			"any":["transport"],
+			"none": ["transport_schema"]
 		},
 		"stylers": [
 			{
