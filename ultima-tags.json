@@ -502,8 +502,7 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["transport"],
-			"none": ["transport_schema"]
+			"any":["transport"]
 		},
 		"stylers": [
 			{
@@ -517,6 +516,19 @@
 			}
 		]
 	},
+	{
+		"types": "polyline",
+		"tags":{
+			"any":["transport_schema"]
+		},
+		"stylers": [
+			{
+				"zoom": [0, 18],
+				"visibility": "off"
+			}
+		]
+	},
+	
 	{
 		"types": "point",
 		"tags":{
