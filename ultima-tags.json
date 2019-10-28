@@ -507,7 +507,8 @@
 		"stylers": [
 			{
 				"lightness": 0.35,
-				"scale": 0.8
+				"scale": 0.8,
+				"hue": -0.6
 			},
 			{
 				"zoom": [0, 12],
