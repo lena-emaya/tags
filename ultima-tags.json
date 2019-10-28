@@ -35,11 +35,11 @@
 			},
 			{
         "zoom": [0, 12],
-        "color": "#E6F5EB50"
+        "color": "#E6F5EB90"
       },
       {
         "zoom": [12, 13],
-				"color": "#E6F5EB85"
+				"color": "#E6F5EB"
       },
       { 
         "zoom": [13, 14],
