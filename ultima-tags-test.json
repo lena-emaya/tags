@@ -3,7 +3,7 @@
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "stylers": {
-	  	"color": "#F0F5F5"
+	  	"color": "#f7f9fa"
 	  }
 	},
 	{
@@ -21,7 +21,7 @@
 			]
 	  },
 	  "stylers": {
-	  	"color": "#F0F5F5"
+	  	"color": "#f7f9fa"
 	  }
 	},
 	{
