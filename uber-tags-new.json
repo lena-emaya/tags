@@ -64,6 +64,11 @@
 			{
         "zoom": [16, 17],
 				"opacity": 0.9
+			},
+			{
+        "zoom": [17, 30],
+				"opacity": 0.9,
+				"color": "#D3DAE0"
 			}
 		]
 	},
