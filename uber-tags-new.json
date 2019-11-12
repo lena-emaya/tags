@@ -421,7 +421,7 @@
 		"elements": "label.text.fill",
 		"stylers": 
 			{
-				"color": "#768BB3",
+				"color": "#919DB3",
 				"lightness": 0.2
 			}
 	},
@@ -435,7 +435,7 @@
 		"stylers": 
 			{
 				"color": "#ffffff",
-				"opacity": 0.6
+				"opacity": 0.85
 			}
 	},
 	{
