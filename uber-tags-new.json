@@ -1,5 +1,5 @@
 [
-	{ "comment": "instead background",
+	{ "comment": "вместо background",
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "stylers": {
@@ -7,6 +7,7 @@
 	  }
 	},
 	{
+		"comment": "фоновый цвет",
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "tags": {
@@ -25,6 +26,7 @@
 	  }
 	},
 	{
+		"comment": "растительность",
 		"types": "polygon",
     "tags": {
       "any": ["vegetation", "park"]
@@ -36,6 +38,7 @@
 		]
 	},
 	{
+		"comment": "гидрография",
 		"types": ["polygon","polyline"],
 		"tags": {
 			"any": ["water"]
@@ -45,6 +48,7 @@
 		}
 	},
 	{
+		"comment": "здания и ограды",
 		"types": "polygon",
 		"tags":{
 			"any":["building", "fence"]
@@ -55,21 +59,16 @@
 			},
 			{
         "zoom": [15, 16],
-				"color": "#DCE1E6",
-				"opacity": 0.5
-			},
-			{
-        "zoom": [16, 17],
-				"color": "#DCE1E6",
 				"opacity": 0.8
 			},
 			{
-        "zoom": [17, 18],
-        "color": "#DCE1E6"
+        "zoom": [16, 17],
+				"opacity": 0.9
 			}
 		]
 	},
 	{
+		"comment": "границы стран",
 		"types": "polyline",
 		"tags":{
 			"any":["country"]
@@ -83,6 +82,7 @@
 			}
 	},
 	{
+		"comment": "границы штатов",
 		"types": "polyline",
 		"tags":{
 			"any":["region"]
@@ -97,6 +97,7 @@
 	},
 	
 	{
+		"comment": "границы районов",
 		"types": "polyline",
 		"tags":{
 			"any":["admin"],
@@ -110,6 +111,7 @@
 			}
 	},
 	{
+		"comment": "границы подрайонов",
 		"types": "polyline",
 		"tags":{
 			"any":["admin"]
@@ -191,9 +193,24 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
+			"any": ["road_1","road_2"]
+    },
+    "stylers": [
+			{
+				"color": "#8CA5D4"
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
 			"any": ["road_3","road_4"]
     },
     "stylers": [
+			{
+				"color": "#A7BADA"
+			},
 			{
 				"zoom": [9, 10],
 				"scale": 0.8
