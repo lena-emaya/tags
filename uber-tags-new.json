@@ -7,7 +7,6 @@
 	  }
 	},
 	{
-		
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "tags": {
@@ -26,7 +25,6 @@
 	  }
 	},
 	{
-		
 		"types": "polygon",
     "tags": {
       "any": ["vegetation", "park"]
@@ -48,7 +46,6 @@
 		}
 	},
 	{
-		
 		"types": "polygon",
 		"tags":{
 			"any":["building", "fence"]
@@ -66,7 +63,7 @@
 				"opacity": 0.9
 			},
 			{
-        "zoom": [17, 30],
+        "zoom": [17, 20],
 				"opacity": 0.9,
 				"color": "#D3DAE0"
 			}
