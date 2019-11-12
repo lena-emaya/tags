@@ -349,6 +349,18 @@
 	{
 		"types": "point",
 		"tags":{
+			"any":["address"]
+		},
+		"elements": "label.text.outline",
+		"stylers": [
+			{
+				"color": "#ffffff00"
+			}
+		]
+	},
+	{
+		"types": "point",
+		"tags":{
 			"any":["poi"],
 			"none": ["park"]
 		},
