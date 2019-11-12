@@ -408,7 +408,7 @@
 		"stylers": 
 			{
 				"hue": 0.8,
-				"lightness": 0.35,
+				"lightness": 0.1,
 				"saturation": -1
 			}
 	},
@@ -434,7 +434,8 @@
 		"elements": "label.text.outline",
 		"stylers": 
 			{
-				"color": "#ffffff40"
+				"color": "#ffffff",
+				"opacity": 0.6
 			}
 	},
 	{
