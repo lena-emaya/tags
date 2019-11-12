@@ -446,7 +446,7 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 1,
+				"lightness": 0,
 				"hue": 0.3,
 				"saturation": -0.1				
 			},
@@ -464,7 +464,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"lightness": 0.5,
+				"lightness": 0,
 				"hue": 0.3,
 				"saturation": -0.2
 			},
