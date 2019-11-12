@@ -693,6 +693,17 @@
 		}
 	},
 	{
+		"types": ["point","polyline"],
+		"tags": {
+			"any": ["water"]
+		},
+		"elements": "label.text.outline",
+		"stylers": {
+			"color": "#ffffff",
+			"scale": 0.95
+		}
+	},
+	{
 		"types": "polyline",
 		"elements": "label.text.fill",
 		"tags":{
