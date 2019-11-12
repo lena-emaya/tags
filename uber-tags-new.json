@@ -460,8 +460,7 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.2,
-				"scale": 0.9
+				"lightness": 0.1
 			}
 		]
 	},
@@ -474,7 +473,7 @@
 		"stylers": [
 			{
 				"lightness": 0,
-				"scale": 0.9
+				"scale": 0.95
 			}
 		]
 	},
