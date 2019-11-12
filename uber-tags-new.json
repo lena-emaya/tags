@@ -411,17 +411,12 @@
 			"none": ["park"]
 		},
 		"elements": "label.icon",
-		"stylers": [
+		"stylers": 
 			{
 				"hue": 0.8,
 				"lightness": 0.35,
 				"saturation": -1
-			},
-			{
-        "zoom": [0, 17],
-        "visibility": "off"
-      }
-		]
+			}
 	},
 	{
 		"types": "point",
@@ -432,8 +427,8 @@
 		"elements": "label.text.fill",
 		"stylers": 
 			{
-				"color": "#cccccc",
-				"lightness": 0.4
+				"color": "#768BB3",
+				"lightness": 0.05
 			}
 	},
 	{
