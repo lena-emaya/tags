@@ -394,7 +394,7 @@
 		"elements": "label.text.outline",
 		"stylers": [
 			{
-				"color": "#ffffff00"
+				"color": "#E6E9EC"
 			}
 		]
 	},
@@ -670,7 +670,6 @@
 			}
 	},
 	{
-		"comment": "фиолетовый",
 		"types": "point",
 		"tags":{
 			"any":["landscape"]
@@ -679,7 +678,7 @@
 		"stylers": 
 			{
 				"scale": 0.85,
-				"color": "#A475FF"
+				"color": "#8E969E"
 			}
 	},
 	{
