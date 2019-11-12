@@ -411,12 +411,13 @@
 			"none": ["park"]
 		},
 		"elements": "label.icon",
-		"stylers": 
+		"stylers": [
 			{
 				"hue": 0.8,
 				"lightness": 0.35,
 				"saturation": -1
 			}
+		]
 	},
 	{
 		"types": "point",
@@ -428,7 +429,7 @@
 		"stylers": 
 			{
 				"color": "#768BB3",
-				"lightness": 0.4
+				"lightness": 0.2
 			}
 	},
 	{
