@@ -374,7 +374,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#363E59",
+				"color": "#505C73",
 				"lightness": 0.4
 			},
 			{
@@ -408,9 +408,9 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"lightness": 0.5,
+				"lightness": 1,
 				"hue": 0.3,
-				"saturation": -0.2				
+				"saturation": -0.1				
 			},
 			{
         "zoom": [0, 15],
