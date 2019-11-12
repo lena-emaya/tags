@@ -132,7 +132,7 @@
 			{
 				"color": "#ffffff",
 				"lightness": 0,
-				"scale": 0.5
+				"scale": 0.8
 			},
 			{
 				"zoom": [5, 7],
@@ -154,17 +154,17 @@
 			},
 			{
 				"zoom": [10, 12],
-				"scale": 0.3,
+				"scale": 0.5,
 				"color": "#fff"
 			},
 			{
 				"zoom": [12, 13],
 				"color": "#fff",
-				"scale": 0.35
+				"scale": 0.6
 			},
 			{
 				"zoom": [13, 14],
-				"scale": 0.42,
+				"scale": 0.7,
 				"lightness": 1
 			},
 			{
@@ -174,17 +174,17 @@
 			{
 				"zoom": [15, 16],
 				"lightness": 1,
-				"scale": 0.55
+				"scale": 0.9
 			},
 			{
 				"zoom": [16, 17],
 				"lightness": 1,
-				"scale": 0.6
+				"scale": 1
 			},
 			{
 				"zoom": [17, 21],
 				"lightness": 1,
-				"scale": 0.65
+				"scale": 1
 			}
 		]
 	},
@@ -345,10 +345,9 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"hue": -0.75,
-			"saturation": 1,
-			"lightness": 0.2,
-			"scale": 0.5
+			"saturation": -1,
+			"lightness": 0,
+			"scale": 0.65
 		}
 	},
 	{
@@ -359,7 +358,7 @@
 		"elements": "geometry.fill",
 		"stylers": {
 			"color": "#E6E3D5",
-			"scale": 0.5
+			"scale": 0.65
 		}
 	},
 	{
