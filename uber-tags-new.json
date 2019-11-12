@@ -530,10 +530,11 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["transport"]
+			"any":["transport_line"]
 		},
 		"stylers": [
 			{
+				"saturation": -1,
 				"lightness": 0.35,
 				"scale": 0.8
 			},
