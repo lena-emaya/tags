@@ -77,7 +77,7 @@
 		"elements":"geometry.fill",
 		"stylers": 
 			{
-				"color": "#4D4D4D",
+				"saturation": -1,
 				"scale": 0.7
 			}
 	},
