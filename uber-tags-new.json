@@ -264,6 +264,30 @@
 	},
 	{
     "types": "polyline",
+    "elements": "geometry.outline",
+    "tags": {
+			"any": ["road_1","road_2"]
+    },
+    "stylers": [
+			{
+				"color": "#768BB3"
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.outline",
+    "tags": {
+			"any": ["road_3","road_4"]
+    },
+    "stylers": [
+			{
+				"color": "#8DA5C7"
+			}
+		]
+	},
+	{
+    "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
 			"any": ["road_5"]
