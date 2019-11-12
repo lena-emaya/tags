@@ -1,5 +1,5 @@
 [
-	{ "comment": "вместо background",
+	{
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "stylers": {
@@ -7,7 +7,7 @@
 	  }
 	},
 	{
-		"comment": "фоновый цвет",
+		
 		"types": "polygon",
 		"elements": "geometry.fill",
 	  "tags": {
@@ -26,7 +26,7 @@
 	  }
 	},
 	{
-		"comment": "растительность",
+		
 		"types": "polygon",
     "tags": {
       "any": ["vegetation", "park"]
@@ -38,7 +38,7 @@
 		]
 	},
 	{
-		"comment": "гидрография",
+		
 		"types": ["polygon","polyline"],
 		"tags": {
 			"any": ["water"]
@@ -48,7 +48,7 @@
 		}
 	},
 	{
-		"comment": "здания и ограды",
+		
 		"types": "polygon",
 		"tags":{
 			"any":["building", "fence"]
@@ -73,7 +73,7 @@
 		]
 	},
 	{
-		"comment": "границы стран",
+		
 		"types": "polyline",
 		"tags":{
 			"any":["country"]
@@ -87,7 +87,6 @@
 			}
 	},
 	{
-		"comment": "границы штатов",
 		"types": "polyline",
 		"tags":{
 			"any":["region"]
@@ -102,7 +101,6 @@
 	},
 	
 	{
-		"comment": "границы районов",
 		"types": "polyline",
 		"tags":{
 			"any":["admin"],
@@ -116,7 +114,6 @@
 			}
 	},
 	{
-		"comment": "границы подрайонов",
 		"types": "polyline",
 		"tags":{
 			"any":["admin"]
@@ -411,13 +408,12 @@
 			"none": ["park"]
 		},
 		"elements": "label.icon",
-		"stylers": [
+		"stylers": 
 			{
 				"hue": 0.8,
 				"lightness": 0.35,
 				"saturation": -1
 			}
-		]
 	},
 	{
 		"types": "point",
@@ -439,15 +435,10 @@
 			"none": ["park"]
 		},
 		"elements": "label.text.outline",
-		"stylers": [
+		"stylers": 
 			{
 				"color": "#ffffff10"
-			},
-			{
-        "zoom": [0, 17],
-        "visibility": "off"
-      }
-		]
+			}
 	},
 	{
 		"types": "point",
