@@ -372,16 +372,11 @@
 			"none": ["park"]
 		},
 		"elements": "label.text.fill",
-		"stylers": [
+		"stylers": 
 			{
-				"color": "#505C73",
+				"color": "#cccccc",
 				"lightness": 0.4
-			},
-			{
-        "zoom": [0, 17],
-        "visibility": "off"
-      }
-		]
+			}
 	},
 	{
 		"types": "point",
