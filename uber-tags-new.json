@@ -134,29 +134,29 @@
 			{
 				"zoom": [5, 7],
 				"scale": 0.8,
-				"color": "#E4E0D2"
+				"color": "#ffffff"
 			},
 			{
 				"zoom": [7, 8],
 				"scale": 0.6,
-				"color": "#E4E0D2"
+				"color": "#ffffff"
 			},
 			{
 				"zoom": [8, 9],
-				"color": "#E4E0D2"
+				"color": "#ffffff"
 			},
 			{
 				"zoom": [9, 10],
-				"color": "#E6E3D3"
+				"color": "#ffffff"
 			},
 			{
 				"zoom": [10, 12],
 				"scale": 0.3,
-				"color": "#E4E0D2"
+				"color": "#fff"
 			},
 			{
 				"zoom": [12, 13],
-				"color": "#F7F5EB",
+				"color": "#fff",
 				"scale": 0.35
 			},
 			{
@@ -206,7 +206,7 @@
     },
     "stylers": [
 			{
-				"color": "#D1CBAB",
+				"color": "#fff",
 				"scale": 0.65
 			},
 			{
@@ -219,22 +219,22 @@
 			},
 			{
 				"zoom": [13, 14],
-				"color": "#9E9872",
+				"color": "#fff",
 				"scale": 0.4
 			},
 			{
 				"zoom": [14, 15],
-				"color": "#C3BC95",
+				"color": "#fff",
 				"scale": 0.5
 			},
 			{
 				"zoom": [15, 16],
-				"color": "#C3BC95",
+				"color": "#fff",
 				"scale": 0.55
 			},
 			{
 				"zoom": [16, 17],
-				"color": "#C3BC95",
+				"color": "#fff",
 				"scale": 0.6
 			},
 			{
@@ -253,12 +253,12 @@
 			{
 				"zoom": [10, 11],
 				"scale": 0.9,
-				"color": "#E6E3D3"
+				"color": "#fff"
 			},
 			{
 				"zoom": [11, 12],
 				"scale": 0.9,
-				"color": "#E6E3D3"
+				"color": "#fff"
 			}
 		]
 	},
@@ -272,12 +272,12 @@
 			{
 				"zoom": [11, 12],
 				"scale": 0.9,
-				"color": "#E6E3D3"
+				"color": "#fff"
 			},
 			{
 				"zoom": [12, 13],
 				"scale": 0.9,
-				"color": "#E6E3D3"
+				"color": "#fff"
 			}
 		]
 	},
@@ -291,7 +291,7 @@
 			{
 				"zoom": [13, 14],
 				"scale": 1,
-				"color": "#E6E3D3"
+				"color": "#fff"
 			}
 		]
 	},
@@ -511,14 +511,11 @@
 		},
 		"stylers": [
 			{
-				"saturation": 0.4,
+				"saturation": -0.2,
 				"lightness": 0.1
 			},
 			{
 				"zoom": [0, 15],
-				"hue": -0.05,
-				"saturation": 0.3,
-				"lightness": 0,
         "scale": 0.9
 			},
 			{
@@ -539,7 +536,7 @@
 		"elements":"label.text.fill",
 		"stylers": 
 			{
-				"color": "#a4a096",
+				"color": "#4D4D4D",
 				"scale": 0.85
 			}
 	},
@@ -551,7 +548,31 @@
 		"elements":"label.text.outline",
 		"stylers": 
 			{
-				"color": "#a4a09600",
+				"color": "#ffffff60",
+				"scale": 0.85
+			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["region"]
+		},
+		"elements":"label.text.fill",
+		"stylers": 
+			{
+				"color": "#788583",
+				"scale": 0.85
+			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["region"]
+		},
+		"elements":"label.text.outline",
+		"stylers": 
+			{
+				"color": "#ffffff60",
 				"scale": 0.85
 			}
 	},
