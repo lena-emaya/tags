@@ -645,16 +645,9 @@
 			"any":["district"]
 		},
 		"elements": "label.text.fill",
-		"stylers": [
-			{
-				"color": "#556275",
-				"scale": 0.95
-			},
-			{
-				"zoom": [14, 22],
-				"visibility": "off"
-			}
-		]
+		"stylers": {
+			"visibility": "off"
+		}
 	},
 	{
 		"types": "point",
