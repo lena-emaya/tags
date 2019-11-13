@@ -341,7 +341,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#5F6D8C",
+				"color": "#5E6980",
 				"lightness": 0.2
 			},
 			{
@@ -709,7 +709,7 @@
 		"types": "point",
 		"tags":{
 			"any":["admin"],
-			"none": ["country", "region", "locality", "address"]
+			"none": ["country", "region", "locality", "district", "address"]
 		},
 		"stylers": 
 			{
