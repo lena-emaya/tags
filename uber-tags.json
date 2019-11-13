@@ -310,7 +310,7 @@
 		"elements": "label.text.outline",
 		"stylers": [
 			{
-				"color": "#E6E9EC"
+				"color": "#E6E9EC00"
 			}
 		]
 	},
@@ -323,12 +323,11 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"hue": 0.8,
 				"lightness": 0.1,
 				"saturation": -1
 			},
 			{
-				"zoom": [0,14],
+				"zoom": [0,16],
 				"visibility": "off"
 			}
 		]
@@ -346,7 +345,7 @@
 				"lightness": 0.2
 			},
 			{
-				"zoom": [0,14],
+				"zoom": [0,16],
 				"visibility": "off"
 			}
 		]
@@ -364,7 +363,7 @@
 				"opacity": 0.85
 			},
 			{
-				"zoom": [0,14],
+				"zoom": [0,16],
 				"visibility": "off"
 			}
 		]
@@ -560,7 +559,7 @@
 		"stylers": 
 			{
 				"color": "#556275",
-				"scale": 0.9
+				"scale": 0.95
 			}
 	},
 	{
@@ -572,6 +571,35 @@
 		"stylers": 
 			{
 				"lightness":0.2,
+				"scale": 0.9
+			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["district"]
+		},
+		"elements": "label.text.fill",
+		"stylers": [
+			{
+				"color": "#556275",
+				"scale": 0.9
+			},
+			{
+				"zoom": [14, 22],
+				"visibility": "off"
+			}
+		]
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["district"]
+		},
+		"elements": "label.text.outline",
+		"stylers": 
+			{
+				"color": "ffffff00",
 				"scale": 0.9
 			}
 	},
@@ -618,7 +646,7 @@
 	  "stylers": 
 			{
 				"color": "#333333",
-				"scale": 0.8
+				"scale": 0.85
 			}
 	},
 	{
@@ -630,7 +658,7 @@
 	  "stylers": 
 			{
 				"color": "#333333",
-				"scale": 0.88
+				"scale": 0.9
 			}
 	},
 	{
@@ -674,7 +702,7 @@
 		},
 		"stylers": 
 			{
-				"saturation": -0.2
+				"visibility": "off"
 			}
 	},
 	{
