@@ -599,7 +599,7 @@
 		"elements": "label.text.outline",
 		"stylers": 
 			{
-				"color": "ffffff00",
+				"color": "#E6E9EC",
 				"scale": 0.9
 			}
 	},
@@ -735,7 +735,8 @@
 		"elements":"geometry.outline",
 		"stylers": 
 			{
-				"color": "#8DA5C7"
+				"color": "#8DA5C7",
+				"saturation": -1
 			}
 	}
 ]
