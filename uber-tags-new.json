@@ -224,40 +224,8 @@
     },
     "stylers": [
 			{
-				"color": "#fff",
-				"scale": 0.65
-			},
-			{
-				"zoom": [9, 12],
-				"scale": 0.3
-			},
-			{
-				"zoom": [12, 13],
-				"scale": 0.4
-			},
-			{
-				"zoom": [13, 14],
-				"color": "#fff",
-				"scale": 0.4
-			},
-			{
-				"zoom": [14, 15],
-				"color": "#fff",
-				"scale": 0.5
-			},
-			{
-				"zoom": [15, 16],
-				"color": "#fff",
-				"scale": 0.55
-			},
-			{
-				"zoom": [16, 17],
-				"color": "#fff",
-				"scale": 0.6
-			},
-			{
-				"zoom": [17, 21],
-				"scale": 0.65
+				"color": "#fff"
+			
 			}
 		]
 	},
