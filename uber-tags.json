@@ -465,7 +465,7 @@
 		"stylers": [
 			{
 				"saturation": -1,
-				"lightness": 0.35,
+				"lightness": 0.1,
 				"scale": 0.8
 			},
 			{
@@ -735,8 +735,7 @@
 		"elements":"geometry.outline",
 		"stylers": 
 			{
-				"color": "#8DA5C7",
-				"saturation": -1
+				"color": "#B3B3B3"
 			}
 	}
 ]
