@@ -56,15 +56,15 @@
 			},
 			{
         "zoom": [15, 16],
-				"opacity": 0.7
+				"opacity": 0.55
 			},
 			{
         "zoom": [16, 17],
-				"opacity": 0.8
+				"opacity": 0.7
 			},
 			{
         "zoom": [17, 20],
-				"opacity": 0.9
+				"opacity": 0.8
 			}
 		]
 	},
