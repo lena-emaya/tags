@@ -404,12 +404,17 @@
 			"none": ["park"]
 		},
 		"elements": "label.icon",
-		"stylers": 
+		"stylers": [
 			{
 				"hue": 0.8,
 				"lightness": 0.1,
 				"saturation": -1
+			},
+			{
+				"zoom": [0,14],
+				"visibility": "off"
 			}
+		]
 	},
 	{
 		"types": "point",
@@ -418,11 +423,16 @@
 			"none": ["park"]
 		},
 		"elements": "label.text.fill",
-		"stylers": 
+		"stylers": [
 			{
 				"color": "#919DB3",
 				"lightness": 0.2
+			},
+			{
+				"zoom": [0,14],
+				"visibility": "off"
 			}
+		]
 	},
 	{
 		"types": "point",
@@ -431,11 +441,16 @@
 			"none": ["park"]
 		},
 		"elements": "label.text.outline",
-		"stylers": 
+		"stylers": [
 			{
 				"color": "#ffffff",
 				"opacity": 0.85
+			},
+			{
+				"zoom": [0,14],
+				"visibility": "off"
 			}
+		]
 	},
 	{
 		"types": "point",
@@ -450,7 +465,7 @@
 				"saturation": -0.1				
 			},
 			{
-        "zoom": [0, 15],
+        "zoom": [0, 13],
         "visibility": "off"
       }
 		]
