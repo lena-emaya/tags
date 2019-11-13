@@ -698,7 +698,7 @@
 		},
 		"elements": "label.text.outline",
 		"stylers": {
-			"color": "#ffffff",
+			"color": "#ffffff00",
 			"scale": 0.95
 		}
 	},
