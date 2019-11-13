@@ -245,58 +245,7 @@
 			}
 		]
 	},
-	{
-    "types": "polyline",
-    "elements": "geometry.fill",
-    "tags": {
-			"any": ["road_5"]
-    },
-    "stylers": [
-			{
-				"zoom": [10, 11],
-				"scale": 0.9,
-				"color": "#fff"
-			},
-			{
-				"zoom": [11, 12],
-				"scale": 0.9,
-				"color": "#fff"
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.fill",
-    "tags": {
-			"any": ["road_6"]
-    },
-    "stylers": [
-			{
-				"zoom": [11, 12],
-				"scale": 0.9,
-				"color": "#fff"
-			},
-			{
-				"zoom": [12, 13],
-				"scale": 0.9,
-				"color": "#fff"
-			}
-		]
-	},
-	{
-    "types": "polyline",
-    "elements": "geometry.fill",
-    "tags": {
-			"any": ["road_7", "road_limited", "road_unclassified"]
-    },
-    "stylers": [
-			{
-				"zoom": [13, 14],
-				"scale": 0.5,
-				"color": "#fff"
-			}
-		]
-	},
+	
 	{
 		"types": "polyline",
 		"tags": {
