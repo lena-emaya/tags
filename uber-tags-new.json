@@ -179,15 +179,31 @@
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
-			"any": ["road_3","road_4"]
+			"any": ["road_3"]
     },
     "stylers": [
 			{
-				"color": "#CB1DFF"
+				"color": "#A7BADA"
 			},
 			{
 				"zoom": [9, 10],
 				"scale": 0.6
+			}
+		]
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_4"]
+    },
+    "stylers": [
+			{
+				"color": "#A7BADA"
+			},
+			{
+				"zoom": [9, 10],
+				"scale": 0.7
 			}
 		]
 	},
