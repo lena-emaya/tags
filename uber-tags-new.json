@@ -300,7 +300,7 @@
     "stylers": [
 			{
 				"zoom": [13, 14],
-				"scale": 1,
+				"scale": 0.5,
 				"color": "#fff"
 			}
 		]
