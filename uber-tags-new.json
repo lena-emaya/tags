@@ -642,28 +642,6 @@
 	{
 		"types": "point",
 		"tags":{
-			"any":["district"]
-		},
-		"elements": "label.text.fill",
-		"stylers": {
-			"visibility": "off"
-		}
-	},
-	{
-		"types": "point",
-		"tags":{
-			"any":["district"]
-		},
-		"elements": "label.text.outline",
-		"stylers": 
-			{
-				"color": "#ffffff60",
-				"scale": 0.9
-			}
-	},
-	{
-		"types": "point",
-		"tags":{
 			"any":["landscape"]
 		},
 		"elements": "label.text.fill",
@@ -767,7 +745,7 @@
 		"types": "point",
 		"tags":{
 			"any":["admin"],
-			"none": ["country", "region", "locality", "district", "address"]
+			"none": ["country", "region", "locality", "address"]
 		},
 		"stylers": 
 			{
