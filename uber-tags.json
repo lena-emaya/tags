@@ -222,13 +222,14 @@
 				"color": "#f00"
 			},
 			{
-				"zoom": [9, 10],
-				"scale": 1
+				"zoom": [10, 11],
+				"scale": 0.6,
+				"color": "#000"
 			},
 			{
-				"zoom": [10, 11],
-				"scale": 1,
-				"color": "#000"
+				"zoom": [11, 12],
+				"scale": 1.2,
+				"color": "#FF3B1E"
 			}
 		]
 	},
