@@ -228,12 +228,12 @@
 			},
 			{
 				"zoom": [11],
-				"scale": 2,
+				"scale": 4,
 				"color": "#24EBB4"
 			},
 			{
 				"zoom": [12],
-				"scale": 3,
+				"scale": 1.1,
 				"color": "#FF3B1E"
 			}
 		]
