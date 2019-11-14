@@ -222,13 +222,18 @@
 				"color": "#f00"
 			},
 			{
-				"zoom": [10, 11],
+				"zoom": [10],
 				"scale": 0.6,
 				"color": "#000"
 			},
 			{
+				"zoom": [11],
+				"scale": 2,
+				"color": "#24EBB4"
+			},
+			{
 				"zoom": [11, 12],
-				"scale": 1.2,
+				"scale": 1,
 				"color": "#FF3B1E"
 			}
 		]
@@ -623,11 +628,16 @@
 			"any":["district"]
 		},
 		"elements": "label.text.outline",
-		"stylers": 
+		"stylers": [
 			{
 				"color": "#E6E9EC",
 				"scale": 0.9
+			},
+			{
+				"zoom": [14, 22],
+				"visibility": "off"
 			}
+		]	
 	},
 	{
 		"types": "point",
