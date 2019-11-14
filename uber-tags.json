@@ -214,27 +214,23 @@
     },
     "stylers": [
 			{
-				"color": "#5C5849"
+				"color": "#fff"
 			},
 			{
 				"zoom": [9],
-				"scale": 3,
-				"color": "#000"
+				"scale": 3
 			},
 			{
 				"zoom": [10],
-				"scale": 0.6,
-				"color": "#EBC351"
+				"scale": 0.6
 			},
 			{
 				"zoom": [11],
-				"scale": 4,
-				"color": "#24EBB4"
+				"scale": 4
 			},
 			{
 				"zoom": [12],
-				"scale": 1.1,
-				"color": "#FF3B1E"
+				"scale": 1.1
 			}
 		]
 	},
