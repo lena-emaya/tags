@@ -259,9 +259,10 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"saturation": -1,
-			"lightness": 0,
-			"scale": 0.65
+			"hue": -0.75,
+			"saturation": 1,
+            "lightness": 0.2,
+            "scale": 0.65
 		}
 	},
 	{
@@ -271,7 +272,7 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"saturation": -1,
+			"color": "#CDD0D2",
 			"scale": 0.65
 		}
 	},
