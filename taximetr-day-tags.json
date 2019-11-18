@@ -582,11 +582,10 @@
 		"tags":{
 			"any":["landscape"]
 		},
-		"elements": "label.text.fill",
+		"elements": "label.text",
 		"stylers": 
 			{
-				"scale": 0.85,
-				"color": "#faf8f0"
+				"visibility":"off"
 			}
 	},
 	{
