@@ -204,6 +204,22 @@
 		]
 	},
 	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_6"]
+    },
+    "stylers": [
+			{
+				"color": "#811FB3"
+			},
+			{
+				"zoom": [9, 15],
+				"scale": 0.7
+			}
+		]
+	},
+	{
 		"types": "polyline",
 		"elements": "geometry.fill",
 		"tags":{
