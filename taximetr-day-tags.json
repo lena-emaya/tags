@@ -182,7 +182,7 @@
 			},
 			{
 				"zoom": [9, 10],
-				"scale": 0.6
+				"scale": 1
 			}
 		]
 	},
@@ -198,20 +198,9 @@
 			},
 			{
 				"zoom": [9, 10],
-				"scale": 0.7
+				"scale": 1
 			}
 		]
-	},
-	{
-		"types": "polyline",
-		"elements": "geometry.fill",
-		"tags":{
-			"any": [  "road_7", "road_limited", "road_unclassified", "road_minor", "road_construction"]
-		},
-	  "stylers": 
-			{
-				"color": "#ffffff"
-			}
 	},
 	{
     "types": "polyline",
@@ -246,6 +235,17 @@
 				"color": "#C4BFA7"
 			}
 		]
+	},
+	{
+		"types": "polyline",
+		"elements": "geometry.fill",
+		"tags":{
+			"any": [  "road_7", "road_limited", "road_unclassified", "road_minor", "road_construction"]
+		},
+	  "stylers": 
+			{
+				"color": "#ffffff"
+			}
 	},
 	{
     "types": "polyline",
