@@ -491,6 +491,18 @@
         "scale": 1.05
 			}
 		]
+    },
+    {
+		"types": "point",
+		"tags":{
+			"any":["transport"]
+		},
+		"elements":"label.text.fill",
+		"stylers": 
+			{
+				"color": "#6c5942",
+				"scale": 0.9
+			}
 	},
 	{
 		"types": "point",
