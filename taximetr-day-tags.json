@@ -204,6 +204,33 @@
 		]
 	},
 	{
+		"types": "polyline",
+		"elements": "geometry.fill",
+		"tags":{
+			"any": [  "road_7", "road_limited", "road_unclassified", "road_minor", "road_construction"]
+		},
+	  "stylers": 
+			{
+				"color": "#ffffff"
+			}
+	},
+	{
+    "types": "polyline",
+    "elements": "geometry.fill",
+    "tags": {
+			"any": ["road_5"]
+    },
+    "stylers": [
+			{
+				"color": "#E87BBE"
+			},
+			{
+				"zoom": [9, 15],
+				"scale": 0.7
+			}
+		]
+	},
+	{
     "types": "polyline",
     "elements": "geometry.fill",
     "tags": {
@@ -218,17 +245,6 @@
 				"scale": 0.7
 			}
 		]
-	},
-	{
-		"types": "polyline",
-		"elements": "geometry.fill",
-		"tags":{
-			"any": [ "road_5", "road_6", "road_7", "road_limited", "road_unclassified", "road_minor", "road_construction"]
-		},
-	  "stylers": 
-			{
-				"color": "#ffffff"
-			}
 	},
 	{
     "types": "polyline",
@@ -719,7 +735,8 @@
 	{
 		"types": "polyline",
 		"tags":{
-			"any":["is_tunnel"]
+			"all":["is_tunnel"],
+			"none": ["road_1", "road_2", "road_3", "road_4"]
 		},
 		"elements":"geometry.outline",
 		"stylers": 
