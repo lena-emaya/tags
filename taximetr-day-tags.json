@@ -242,12 +242,12 @@
     },
     "stylers": [
 			{
-				"color": "#E8877B"
+				"color": "#ffffff"
 			},
 			{
-				"zoom": [11, 13],
-				"scale": 3,
-				"color": "#FFA687"
+				"zoom": [11, 12],
+				"scale": 1.2,
+				"color": "#C4BFA7"
 			}
 		]
 	},
