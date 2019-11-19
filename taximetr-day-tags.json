@@ -176,11 +176,10 @@
     "tags": {
 			"any": ["road_3"]
     },
-    "stylers": [
+    "stylers":
 			{
 				"color": "#ffe68c"
 			}
-		]
 	},
 	{
     "types": "polyline",
@@ -188,15 +187,10 @@
     "tags": {
 			"any": ["road_4"]
     },
-    "stylers": [
+    "stylers": 
 			{
 				"color": "#FFF2B8"
-			},
-			{
-				"zoom": [9, 10],
-				"scale": 1
 			}
-		]
 	},
 	{
     "types": "polyline",
