@@ -179,10 +179,6 @@
     "stylers": [
 			{
 				"color": "#ffe68c"
-			},
-			{
-				"zoom": [9, 10],
-				"scale": 1
 			}
 		]
 	},
