@@ -269,9 +269,7 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"hue": -0.75,
-			"saturation": 1,
-      "lightness": -0.1,
+			"color": "#595443",
       "scale": 0.65
 		}
 	},
@@ -282,9 +280,8 @@
 		},
 		"elements": "geometry.fill",
 		"stylers": {
-			"hue": -0.75,
-			"saturation": 1,
-            "lightness": -0.1,
+			
+            "color": "#423F34",
             "scale": 0.65
 		}
 	},
@@ -437,8 +434,7 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-				"hue": -0.85,
-        "saturation": -0.75,
+        "saturation": -0.3,
         "lightness": -0.1
 			}
 		]
@@ -498,7 +494,7 @@
 		},
 		"stylers": [
 			{
-				"saturation": -1,
+				"saturation": -0.3,
         "lightness": -0.15
 			},
 			{
@@ -548,7 +544,7 @@
 		"elements":"label.text.outline",
 		"stylers": 
 			{
-				"color": "#ffffff60",
+				"color": "#00000010",
 				"scale": 0.9
 			}
 	},
@@ -572,7 +568,7 @@
 		"elements":"label.text.outline",
 		"stylers": 
 			{
-				"color": "#ffffff60",
+				"color": "#00000010",
 				"scale": 0.9
 			}
 	},
@@ -585,6 +581,18 @@
 		"stylers": 
 			{
 				"color": "#c4bfa7",
+				"scale": 0.9
+			}
+	},
+	{
+		"types": "point",
+		"tags":{
+			"any":["locality"]
+		},
+		"elements":"label.text.outline",
+		"stylers": 
+			{
+				"color": "#00000010",
 				"scale": 0.9
 			}
 	},
