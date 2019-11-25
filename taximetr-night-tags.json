@@ -402,7 +402,7 @@
 		"elements": "label.text.fill",
 		"stylers": [
 			{
-				"color": "#cccccc"
+				"lightness": -0.1	
 			},
 			{
         "zoom": [0, 13],
@@ -418,7 +418,7 @@
 		"elements": "label.text.outline",
 		"stylers": [
 			{
-				"color": "#ffffff40"
+				"color": "#00000010"
 			},
 			{
         "zoom": [0, 13],
@@ -434,7 +434,8 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-        "saturation": -0.3,
+				"hue": -0.85,
+        "saturation": -0.75,
         "lightness": -0.1
 			}
 		]
