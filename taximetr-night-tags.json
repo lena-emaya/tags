@@ -434,21 +434,7 @@
 		"elements": "label.icon",
 		"stylers": [
 			{
-        "saturation": -0.1,
-        "lightness": -0.1
-			}
-		]
-	},
-	{
-		"types": "point",
-		"tags":{
-			"all":["road_minor"]
-		},
-		"elements": "label.icon",
-		"stylers": [
-			{
-				"hue": -0.85,
-        "saturation": -0.75,
+        "saturation": -0.6,
         "lightness": -0.1
 			}
 		]
